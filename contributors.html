@@ -20,7 +20,7 @@
 .background {
   overflow: auto; /* allows image to stay still while scrolling */
   background-image: url(http://www.todayifoundout.com/wp-content/uploads/2013/03/democrat-republican-party.jpg); /* url for background image */
-  background-size: 100vw; /* size of background is 100% of the Variable Width */
+  background-size: 110vw; /* size of background is 100% of the Variable Width */
   background-attachment: scroll;
   height: 100vh; /* height is 100% of the Variable Height */
 }
@@ -41,23 +41,30 @@
 .navbar {
   background-color: inherit; /* inherits from white-container*/
   border: none;
+  overflow: auto;
+  position: fixed;
+  width: 100%;
 }
 
-</style>
 
+</style>
 </head>
-  <div class="background">
-    <div class="top" ></div>
-      <nav class="navbar navbar-default">
-        <div class="container-fluid white-container text-center">
-          <ul class="nav navbar-nav">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="data.html">Data</a></li>
-            <li><a href="sources.html">Sources</a></li>
-            <li class="active"><a href="contributors.html">Contributors</a></li>
-          </ul>
-        </div>
-      </nav>
+<div class="background">
+ <div class="gap" ></div>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid white-container text-center">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="data.html">Data</a></li>
+        <li><a href="sources.html">Sources</a></li>
+        <li class="active"><a href="contributors.html">Contributors</a></li>
+      </ul>
+    </div>
+  </nav>
+
+    <div class="gap" ></div>
+    <div class="gap" ></div>
+    <div class="gap" ></div>
 
   <div class="container-fluid white-container text-center">
     <h2>Contributors</h3>
