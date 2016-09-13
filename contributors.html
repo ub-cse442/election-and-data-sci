@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>BUILD A WALLLLLL</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<style>
+
+.top {
+  height: 25px;
+  /* size of the top of the page */
+}
+
+.bottom {
+  height: 100px;
+}/* size of the bottom of the page */
+
+.background {
+  overflow: auto; /* allows image to stay still while scrolling */
+  background-image: url(http://www.todayifoundout.com/wp-content/uploads/2013/03/democrat-republican-party.jpg); /* url for background image */
+  background-size: 110vw; /* size of background is 100% of the Variable Width */
+  background-attachment: scroll;
+  height: 100vh; /* height is 100% of the Variable Height */
+}
+
+.gap {
+  height: 20px;
+} /*Gap between different sections*/
+
+.white-container {
+    background-color: rgba(255, 255, 255, 0.60); /* white background with 60% opacity */
+    color: rgba(0, 0, 0, 1); /* black text color, 100% opacity*/
+    width: 80%; /* container is 80% as wide as the total width */
+    font-weight: 600 /* thicker font weight, pretty sure max is 900 */;
+    font-size: 125%;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5); /* black shadow with 50% opacity */
+}
+
+.navbar {
+  background-color: inherit; /* inherits from white-container*/
+  border: none;
+  overflow: auto;
+  position: fixed;
+  width: 100%;
+}
+
+
+</style>
+</head>
+<div class="background">
+ <div class="gap" ></div>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid white-container text-center">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="data.html">Data</a></li>
+        <li><a href="sources.html">Sources</a></li>
+        <li class="active"><a href="contributors.html">Contributors</a></li>
+      </ul>
+    </div>
+  </nav>
+
+    <div class="gap" ></div>
+    <div class="gap" ></div>
+    <div class="gap" ></div>
+
+  <div class="container-fluid white-container text-center">
+    <h2>Contributors</h3>
+  </div>
+
+  <div class="gap" ></div>
+    <div class="container-fluid white-container text-center">
+      <h3>Andrew Nenno</h3>
+        <p>Contributions: UI Development</p>
+        <p>Email: <a href="mailto:ajnenno2@buffalo.edu" target="_top">ajnenno2@buffalo.edu</a></p>
+      <h1></h1>
+    </div>
+
+  <div class="bottom" ></div>
+</div>
+</body>
+</html>
