@@ -1,0 +1,19 @@
+date: September 23, 2016
+meeting_type: TA 
+attendance: [skim43, lethiraj, sjmarcy, bamichae, rmdavis]
+absent: [lethiraj]
+excused_absences: [ # Any legitamite excuses for absent team members
+  {ubit: lethiraj, reason: very sick. Valid excuse}
+  ]
+task_progress: [ # All group members must be included here even if they haven't made any progress since the last meeting
+  {ubit: skim43, progress: Working on Tables},
+  {ubit: lethiraj, progress: working on UI},
+  {ubit: bamichae, progress: working on UI},
+  {ubit: sjmarcy, progress: Worked on UI data},
+  {ubit: rmdavis, progress: Working on data for UI},
+  ]
+issues: [ # Post any issues here. Issues that cannot be addressed by the group should especially be included
+  {ubit: ANY, issue: Need to switch hosting}
+  ]
+Notes:  | # Anything covered in the meeting that doesn't fit elsewhere.
+
