@@ -1,0 +1,15 @@
+.state {
+        fill:#d3d3d3;
+        stroke:#fff;
+        stroke-width:0.75;
+        stroke-opacity:1;
+}
+#WV, #WY, #TX, #LA, #ND, #NE, #TN, #AK, #AL, #AR, #GA, #IN, #IA, #OK, #AZ, #ID, #UT, #MO, #KS, #MT, #MS, #SC, #KY, #SD {
+  fill:#FF0000;
+}
+#WA, #DE, #WI, #HI, #NH, #NJ, #NM, #NY, #PA, #CA, #VA, #CO, #VT, #IL, #CT, #ME, #MD, #MA, #MN, #MI, #RI, #OR {
+  fill:#0000FF;
+}
+#FL, #NC, #NV, #OH {
+  fill:#800080;
+}
