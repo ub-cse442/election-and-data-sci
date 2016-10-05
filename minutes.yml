@@ -1,0 +1,18 @@
+date: September 16, 2016
+meeting_type: ta # meeting_type can "group", "ta", or "instructor"
+attendance: [bamichae, lethiraj, skim43, sjmarcy,ajnenno2]
+absent: [<ubit4>, <ubit5>, <ubit6>]
+excused_absences: [ # Any legitamite excuses for absent team members
+  ]
+task_progress: [ # All group members must be included here even if they haven't made any progress since the last meeting
+  {ubit: <lethiraj>, progress: Started working on the data visualizations},
+  {ubit: <skim43>, progress: Extracted and parsed wikipedia data with Python and converted into readable format},
+  {ubit: <sjmarcy>, progress: Working on UI development, specifically US map UI},
+  {ubit: <bamichae>, progress: Took data from Twitter and internet, organized it, created a simple map of USA with keyword 'trump' plotted},
+  {ubit: <ajnenno2>, progress: Created website, added content to website, added to Github page, created branches},
+  ]
+issues: [ # Post any issues here. Issues that cannot be addressed by the group should especially be included
+  {ubit: <ALL>, issue: Needs further UI development, more analysis},
+  ]
+Notes:  | # Anything covered in the meeting that doesn't fit elsewhere.
+  We are releasing version 0.1.0
