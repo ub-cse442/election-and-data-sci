@@ -1,1 +1,0 @@
-from simplemapplot import make_us_state_map, make_world_country_map
