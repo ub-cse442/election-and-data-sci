@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>2016 Electoral Map</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="data.js"></script>
+
+<title>Electoral Map</title>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -12,9 +17,9 @@
 <style>
 
 body {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 16px;
-      }
+	font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
 
 .top {
   height: 25px;
@@ -27,7 +32,7 @@ body {
 
 .background {
   overflow: auto; /* allows image to stay still while scrolling */
-  background-color: #2B2B2B;
+  background-color: #F8F8F8;
   background-size: 110vw; /* size of background is 100% of the Variable Width */
   background-attachment: scroll;
   height: 100vh; /* height is 100% of the Variable Height */
@@ -38,11 +43,11 @@ body {
 } /*Gap between different sections*/
 
 .white-container {
-    background-color: rgba(255, 255, 255, 0.60); /* white background with 60% opacity */
-    color: rgba(0, 0, 0, 1); /* black text color, 100% opacity*/
+    background-color: #F8F8F8; 
+    color: white;
     width: 80%; /* container is 80% as wide as the total width */
     
-    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5); /* black shadow with 50% opacity */
+    
 }
 
 .navbar {
@@ -83,6 +88,10 @@ body {
     <div class="container-fluid white-container text-center">
       
         <object data="map.svg" type="image/svg+xml">
+
+        
+
+
 
 
       
