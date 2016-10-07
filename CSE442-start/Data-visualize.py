@@ -28,8 +28,9 @@ def sun_data(file):
     plt.plot(x,democratlist,"b")
     plt.plot(x,republicanlist,"r")
     plt.xticks(range(0,len(statelist)))
-    plt.show()
+
     plt.savefig('rep_vs_dem_1.png')
+    plt.show()
 
 
 if __name__=="__main__":
