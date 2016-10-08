@@ -25,13 +25,13 @@ def sun_data(file):
     plt.figure(1)
     x = range(len(statelist))
     plt.xticks(x, statelist)
-    plt.plot(x,democratlist,"b")
-    plt.plot(x,republicanlist,"r")
+    plt.plot(x,democratlist,"b",label = 'Democrat')
+    plt.plot(x,republicanlist,"r",label = 'Republican')
     plt.xticks(range(0,len(statelist)))
-
-    plt.savefig('rep_vs_dem_1.png')
+    plt.legend(loc = 'upper right')
+    plt.savefig('rep_vs_dem_2008.png')
     plt.show()
 
 
 if __name__=="__main__":
-    sun_data('2000.csv')
+    sun_data('2008.csv')
