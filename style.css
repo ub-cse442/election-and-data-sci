@@ -1,0 +1,7 @@
+path:hover, circle:hover {
+  stroke: blue !important;
+  stroke-width:2px;
+  stroke-linejoin: round;
+  cursor: pointer;
+}
+
