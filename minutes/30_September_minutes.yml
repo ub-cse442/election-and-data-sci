@@ -1,0 +1,17 @@
+date: September 30, 2016
+meeting_type: Group
+attendance: [bamichae, lethiraj, sjmarcy]
+absent: [rmdavis]
+excused_absences: [  ]
+task_progress: [ 
+  {ubit: <lethiraj>, progress: continued working on the data visualizations},
+  {ubit: <skim43>, progress: Working on tables},
+  {ubit: <sjmarcy>, progress: Made map of US },
+  {ubit: <bamichae>, progress: Extracted 500,000 tweets},
+  {ubit: <rmdavis>, progress: Started working on specific task},
+  ]
+issues: [ 
+  {ubit: <ALL>, issue: WE NEED US MAP ON WEBSITE INTERACTIVE, more analysis},
+  ]
+Notes:  | 
+  Need to brainstorm what we need for the UI specifically, pair programming where applicable
