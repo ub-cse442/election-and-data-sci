@@ -1,0 +1,16 @@
+date: November 18, 2016
+meeting_type: ta 
+attendance: [bamichae, lethiraj, skim43, sjmarcy]
+absent: []
+excused_absences: [ ]
+task_progress: [
+  {ubit: <lethiraj>, progress: working on more UI},
+  {ubit: <skim43>, progress: made 50 webpages with each individual state},
+  {ubit: <sjmarcy>, progress: Additional features to map, adding more maps, clicking state},
+  {ubit: <bamichae>, progress: working on python cgi},
+  ]
+issues: [ # Post any issues here. Issues that cannot be addressed by the group should especially be included
+  {ubit: <ALL>, issue: Need tweets streaming in},
+  ]
+Notes:  | # Anything covered in the meeting that doesn't fit elsewhere.
+  KICKED RON OUT OF GROUP, (he resigned rip)
