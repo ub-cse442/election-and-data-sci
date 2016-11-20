@@ -90,8 +90,16 @@ def split_file(html_file, csv_file):
     for line in data.readlines():
         split = line.split(',')
         state_abb = split[1]
+        state_fullname = split[0]
         lines = make_file(first, end, state_abb)
-        make_html(first + lines + end, state_abb)
+
+        whole_lines = first + lines + end
+        title = '<title>speech analysis</title>'
+        before = whole_lines.split(title)[0]
+        after = whole_lines.split(title)[1]
+        new_title = '<title>' + state_fullname + ' (' + state_abb + ') ' + '</title>\n'
+
+        make_html(before + after + new_title, state_abb)
 
 
 def make_html(html_data, state_abb):
