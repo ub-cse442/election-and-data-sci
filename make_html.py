@@ -57,16 +57,19 @@ def make_file(first, end, state_abb ):
     l3 = '<p class="alignright">2016 ' + state_fullname + ' poll results by county</p>'
     l4 = '</br>'
     l5 = '<img\n'; l6 = 'src="' + state_abb.lower() + '.svg"\n' ; l7 = 'height="600px"'
-    l8 = 'width="600px"' ; l9 = '/>'
-    l10 = '</br></br></br></br>'
+    l8 = 'width="600px"' ; l9 = '/>\n'
+    l10 = '</br></br></br></br>\n'
+
+    l10 += '<p class="alignleft">' + space4+ space6 +space4+ 'Demo ' + space4 + 'Repub</p>\n' + '</br></br>\n'
 
     data_size = len(data)
     data_lines = ''
     for i in range(1, data_size):
         each = data[i]
-        year = str(each[0]); D = each[1]; R = each[2]
+        year = str(each[0]); D = addComma(each[1]); R = addComma(each[2])
+
         t1 = '<p class="alignleft">' + year + ':' + space + space
-        t1 += D + space4 + R + '</p>\n'
+        t1 += D+ space + space + R + '</p>\n'
         t2 = '</br></br>\n'
         data_lines += t1 + t2
 
