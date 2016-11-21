@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="287.03177"
+   height="312.6673"
+   id="svg6173"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r"
+   version="1.0"
+   sodipodi:docname="Michigan_Presidential_Election_Results_2016.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs6175">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective6181" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3653484"
+     inkscape:cx="33.077837"
+     inkscape:cy="135.58879"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1918"
+     inkscape:window-height="774"
+     inkscape:window-x="0"
+     inkscape:window-y="215"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata6178">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-294.328,-306.95558)">
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 321.57455,383.93727 L 322.40247,383.9107 L 322.48449,391.69919 L 326.40333,395.60086 L 338.19248,395.35109 L 338.36927,403.14419 L 350.14943,402.86232 L 350.40469,413.5261 L 348.22935,412.32632 L 346.11345,411.49527 L 344.79374,411.14616 L 343.10511,410.71578 L 320.64715,404.95922 L 317.48592,404.14064 L 314.60655,403.38504 L 308.62774,395.26051 L 305.14981,393.1426 L 307.32028,391.54915 L 307.95483,391.23177 L 313.06744,389.46482 L 315.03839,389.0084 L 316.76455,388.37826 L 317.28808,388.10121 L 318.29418,387.23204 L 320.6818,385.0793 L 321.57455,383.93727"
+       id="MI_Gogebic"
+       inkscape:label="Gogebic, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 351.14365,371.28019 L 351.47574,383.33013 L 353.61709,383.27598 L 353.70391,387.132 L 349.8033,387.19558 L 349.86713,392.32033 L 350.03689,398.95579 L 350.14943,402.86232 L 338.36927,403.14419 L 338.19248,395.35109 L 326.40333,395.60086 L 322.48449,391.69919 L 322.40247,383.9107 L 321.57455,383.93727 L 322.821,382.53807 L 323.3463,382.15205 L 324.61339,381.48553 L 326.81177,380.91003 L 328.26151,380.75541 L 328.67254,380.83872 L 329.24434,381.08814 L 335.6414,380.32285 L 336.31963,380.12015 L 337.64852,379.48479 L 349.15405,372.98797 L 351.14365,371.28019"
+       id="MI_Ontonagon"
+       inkscape:label="Ontonagon, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 537.24716,585.87984 L 541.17079,585.19829 L 545.35853,584.80044 L 545.63664,584.9406 L 549.27161,587.44605 L 545.27281,592.06017 L 543.31584,595.19417 L 541.76494,597.71827 L 541.61125,597.98517 L 541.55223,598.18633 L 541.4419,601.6845 L 531.09597,602.9261 L 529.42839,586.65689 L 537.24716,585.87984"
+       id="MI_Monroe"
+       inkscape:label="Monroe, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 529.42839,586.65689 L 531.09597,602.9261 L 527.17103,603.41763 L 511.09768,605.25305 L 509.79047,588.5898 L 517.53395,588.05886 L 529.42839,586.65689"
+       id="MI_Lenawee"
+       inkscape:label="Lenawee, MI" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 509.79047,588.5898 L 511.09768,605.25305 L 509.8104,605.39445 L 496.18477,606.80721 L 495.34236,603.94862 L 494.32062,589.73345 L 498.22637,589.56461 L 509.79047,588.5898"
+       id="MI_Hillsdale"
+       inkscape:label="Hillsdale, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 478.69875,590.82046 L 494.32062,589.73345 L 495.34236,603.94862 L 482.86959,604.80185 L 479.65938,604.99045 L 478.69875,590.82046"
+       id="MI_Branch"
+       inkscape:label="Branch, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 463.03177,591.89473 L 478.69875,590.82046 L 479.65938,604.99045 L 467.31516,605.80418 L 462.89511,606.06058 L 463.03177,591.89473"
+       id="MI_St._Joseph"
+       inkscape:label="St. Joseph, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 447.63266,592.66894 L 463.03177,591.89473 L 462.89511,606.06058 L 453.78932,606.53936 L 448.30398,606.85651 L 447.63266,592.66894"
+       id="MI_Cass"
+       inkscape:label="Cass, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 442.46296,585.12197 L 447.63266,592.66894 L 448.30398,606.85651 L 438.28751,607.40004 L 428.18286,607.87597 L 428.19826,607.84858 L 429.73225,606.68497 L 431.66434,605.00254 L 432.8812,603.77778 L 434.77451,601.44623 L 435.44564,600.30398 L 435.9117,599.18341 L 436.64689,596.50708 L 438.61233,591.60764 L 439.34736,590.23633 L 442.46296,585.12197"
+       id="MI_Berrien"
+       inkscape:label="Berrien, MI" />
+    <path
+       style="font-size:12px;fill:#4389e3;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 551.01779,568.17701 L 558.08051,567.39486 L 557.69204,569.81367 L 557.54837,570.23583 L 556.69828,572.02014 L 555.57506,572.69366 L 554.63326,573.10866 L 553.7836,573.29248 L 553.65607,573.3109 L 552.17755,573.98473 L 551.69745,574.45385 L 551.20792,575.33407 L 550.3615,577.76579 L 550.36803,577.92088 L 550.36086,578.06828 L 550.42689,580.68859 L 549.98755,584.80396 L 549.27161,587.44605 L 545.63664,584.9406 L 545.35853,584.80044 L 541.17079,585.19829 L 537.24716,585.87984 L 535.51963,570.04742 L 551.01779,568.17701"
+       id="MI_Wayne"
+       inkscape:label="Wayne, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 515.9971,572.06686 L 516.3143,572.05414 L 517.53395,588.05886 L 509.79047,588.5898 L 498.22637,589.56461 L 496.80111,573.59211 L 500.71814,573.33587 L 515.9971,572.06686"
+       id="MI_Jackson"
+       inkscape:label="Jackson, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 485.06033,574.43873 L 496.80111,573.59211 L 498.22637,589.56461 L 494.32062,589.73345 L 478.69875,590.82046 L 477.50112,575.01381 L 485.06033,574.43873"
+       id="MI_Calhoun"
+       inkscape:label="Calhoun, MI" />
+    <path
+       style="font-size:12px;fill:#86b6f2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 469.37939,575.43844 L 477.50112,575.01381 L 478.69875,590.82046 L 463.03177,591.89473 L 462.03252,575.91481 L 469.37939,575.43844"
+       id="MI_Kalamazoo"
+       inkscape:label="Kalamazoo, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 445.08466,576.92678 L 462.03252,575.91481 L 463.03177,591.89473 L 447.63266,592.66894 L 442.46296,585.12197 L 445.08466,576.92678"
+       id="MI_Van_Buren"
+       inkscape:label="Van Buren, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 460.48509,560.1404 L 468.33849,559.66404 L 469.37939,575.43844 L 462.03252,575.91481 L 445.08466,576.92678 L 446.3846,560.97426 L 460.48509,560.1404"
+       id="MI_Allegan"
+       inkscape:label="Allegan, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 483.92981,558.55443 L 485.06033,574.43873 L 477.50112,575.01381 L 469.37939,575.43844 L 468.33849,559.66404 L 476.13668,559.09353 L 483.92981,558.55443"
+       id="MI_Barry"
+       inkscape:label="Barry, MI" />
+    <path
+       style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 491.77154,558.02826 L 499.51736,557.52204 L 500.71814,573.33587 L 496.80111,573.59211 L 485.06033,574.43873 L 483.92981,558.55443 L 491.77154,558.02826"
+       id="MI_Eaton"
+       inkscape:label="Eaton, MI" />
+    <path
+       style="font-size:12px;fill:#4389e3;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 507.41024,556.66769 L 514.20083,556.12909 L 515.9971,572.06686 L 500.71814,573.33587 L 499.51736,557.52204 L 507.41024,556.66769"
+       id="MI_Ingham"
+       inkscape:label="Ingham, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 529.76931,554.62089 L 531.80446,570.49288 L 516.3143,572.05414 L 515.9971,572.06686 L 514.20083,556.12909 L 521.9678,555.33194 L 529.76931,554.62089"
+       id="MI_Livingston"
+       inkscape:label="Livingston, MI" />
+    <path
+       style="font-size:12px;fill:#86b6f2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 548.69349,548.19643 L 551.01779,568.17701 L 535.51963,570.04742 L 531.80446,570.49288 L 529.76931,554.62089 L 529.34502,550.61478 L 533.23431,550.20594 L 537.1136,549.56796 L 548.69349,548.19643"
+       id="MI_Oakland"
+       inkscape:label="Oakland, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 552.52394,547.62292 L 560.58733,546.73463 L 561.72167,555.37985 L 561.84491,556.46223 L 558.08051,567.39486 L 551.01779,568.17701 L 548.69349,548.19643 L 552.52394,547.62292"
+       id="MI_Macomb"
+       inkscape:label="Macomb, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 551.07021,535.85259 L 567.21354,533.73566 L 567.28042,534.02383 L 567.83663,535.96799 L 568.0597,536.66126 L 570.53795,540.74614 L 569.7016,553.38651 L 569.24673,557.82122 L 569.04908,558.91965 L 568.92211,559.21599 L 567.13146,561.82342 L 566.96784,562.0054 L 566.40201,562.1397 L 564.50275,562.42371 L 562.7753,560.54923 L 562.67135,560.22759 L 563.33003,558.83499 L 563.97464,558.31054 L 564.77324,558.52528 L 565.21183,557.96971 L 565.35029,557.72669 L 565.41853,557.33604 L 565.35863,556.90397 L 565.09059,556.55677 L 564.93642,556.47189 L 563.59103,556.07227 L 563.21595,555.97313 L 562.70599,556.0433 L 561.8954,556.43654 L 561.84491,556.46223 L 561.72167,555.37985 L 560.58733,546.73463 L 552.52394,547.62292 L 551.07021,535.85259"
+       id="MI_St._Clair"
+       inkscape:label="St. Clair, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 535.55792,534.03586 L 535.51641,533.58709 L 538.66165,529.23751 L 546.31223,528.37489 L 546.51664,530.31954 L 550.40471,529.93524 L 551.07021,535.85259 L 552.52394,547.62292 L 548.69349,548.19643 L 537.1136,549.56796 L 535.55792,534.03586"
+       id="MI_Lapeer"
+       inkscape:label="Lapeer, MI" />
+    <path
+       style="font-size:12px;fill:#86b6f2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 527.84483,534.73714 L 535.55792,534.03586 L 537.1136,549.56796 L 533.23431,550.20594 L 529.34502,550.61478 L 529.76931,554.62089 L 521.9678,555.33194 L 520.50663,539.37529 L 527.84483,534.73714"
+       id="MI_Genesee"
+       inkscape:label="Genesee, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 520.50663,539.37529 L 521.9678,555.33194 L 514.20083,556.12909 L 507.41024,556.66769 L 506.11773,541.14839 L 506.09078,540.68979 L 520.50663,539.37529"
+       id="MI_Shiawassee"
+       inkscape:label="Shiawassee, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 506.11773,541.14839 L 507.41024,556.66769 L 499.51736,557.52204 L 491.77154,558.02826 L 490.68656,542.22006 L 506.11773,541.14839"
+       id="MI_Clinton"
+       inkscape:label="Clinton, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 475.03567,543.25289 L 490.68656,542.22006 L 491.77154,558.02826 L 483.92981,558.55443 L 476.13668,559.09353 L 475.03567,543.25289"
+       id="MI_Ionia"
+       inkscape:label="Ionia, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 459.03669,540.30444 L 459.63803,548.19205 L 460.09339,553.51174 L 460.48509,560.1404 L 446.3846,560.97426 L 443.43942,545.15297 L 448.27443,544.89918 L 455.44481,544.43531 L 455.15817,540.49219 L 459.03669,540.30444"
+       id="MI_Ottawa"
+       inkscape:label="Ottawa, MI" />
+    <path
+       style="font-size:12px;fill:#b9d7ff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 436.33044,529.38247 L 450.19381,528.86772 L 450.66495,536.75605 L 458.82281,536.31208 L 459.03669,540.30444 L 455.15817,540.49219 L 455.44481,544.43531 L 448.27443,544.89918 L 443.43942,545.15297 L 443.09882,544.34494 L 441.78391,541.72721 L 438.8758,536.35507 L 438.43125,535.36962 L 437.39991,532.77974 L 436.87593,531.18539 L 436.33044,529.38247"
+       id="MI_Muskegon"
+       inkscape:label="Muskegon, MI" />
+    <path
+       style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 458.82281,536.31208 L 466.29875,535.7857 L 474.51915,535.28498 L 475.03567,543.25289 L 476.13668,559.09353 L 468.33849,559.66404 L 460.48509,560.1404 L 460.09339,553.51174 L 459.63803,548.19205 L 459.03669,540.30444 L 458.82281,536.31208"
+       id="MI_Kent"
+       inkscape:label="Kent, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 489.29603,526.47438 L 490.68656,542.22006 L 475.03567,543.25289 L 474.51915,535.28498 L 466.29875,535.7857 L 465.82827,527.88334 L 481.46866,526.99422 L 489.29603,526.47438"
+       id="MI_Montcalm"
+       inkscape:label="Montcalm, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 497.10688,525.93263 L 504.88399,525.3611 L 506.09078,540.68979 L 506.11773,541.14839 L 490.68656,542.22006 L 489.29603,526.47438 L 497.10688,525.93263"
+       id="MI_Gratiot"
+       inkscape:label="Gratiot, MI" />
+    <path
+       style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 526.79709,523.08153 L 527.84483,534.73714 L 520.50663,539.37529 L 506.09078,540.68979 L 504.88399,525.3611 L 504.84495,524.64512 L 511.35189,524.15253 L 511.14245,520.21315 L 514.99478,519.98542 L 516.23623,521.22068 L 518.58942,521.7291 L 522.77321,521.41196 L 524.15675,522.61897 L 526.79709,523.08153"
+       id="MI_Saginaw"
+       inkscape:label="Saginaw, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 545.02301,512.57083 L 561.62647,510.39536 L 561.73899,511.33653 L 562.18049,514.33742 L 562.32813,514.91797 L 566.30965,531.20121 L 566.50377,531.76645 L 567.21354,533.73566 L 551.07021,535.85259 L 550.40471,529.93524 L 546.51664,530.31954 L 546.31223,528.37489 L 545.02301,512.57083"
+       id="MI_Sanilac"
+       inkscape:label="Sanilac, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 533.41875,511.11651 L 533.68415,513.90482 L 545.02301,512.57083 L 546.31223,528.37489 L 538.66165,529.23751 L 535.51641,533.58709 L 535.55792,534.03586 L 527.84483,534.73714 L 526.79709,523.08153 L 526.34309,517.73378 L 533.41875,511.11651"
+       id="MI_Tuscola"
+       inkscape:label="Tuscola, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 545.02301,512.57083 L 533.68415,513.90482 L 533.41875,511.11651 L 533.48214,510.89798 L 533.92713,509.12564 L 534.96898,506.29186 L 539.19158,499.68005 L 548.35598,494.45183 L 550.00514,494.10287 L 554.16743,495.89175 L 555.80976,496.98471 L 556.0677,497.25052 L 557.18408,499.03196 L 559.75821,503.17076 L 560.15935,504.10836 L 560.92812,506.88951 L 561.22814,508.17045 L 561.62647,510.39536 L 545.02301,512.57083"
+       id="MI_Huron"
+       inkscape:label="Huron, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 509.70867,500.80001 L 513.64264,500.4848 L 513.97779,504.37048 L 518.30496,504.07087 L 517.73011,510.97263 L 522.42012,515.94247 L 526.34309,517.73378 L 526.79709,523.08153 L 524.15675,522.61897 L 522.77321,521.41196 L 518.58942,521.7291 L 516.23623,521.22068 L 514.99478,519.98542 L 511.14245,520.21315 L 510.28791,508.56343 L 509.70867,500.80001"
+       id="MI_Bay"
+       inkscape:label="Bay, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 496.02626,510.10704 L 503.83274,509.58267 L 503.78428,508.91548 L 510.28791,508.56343 L 511.14245,520.21315 L 511.35189,524.15253 L 504.84495,524.64512 L 504.88399,525.3611 L 497.10688,525.93263 L 496.02626,510.10704"
+       id="MI_Midland"
+       inkscape:label="Midland, MI" />
+    <path
+       style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 496.02626,510.10704 L 497.10688,525.93263 L 489.29603,526.47438 L 481.46866,526.99422 L 480.3034,511.24542 L 496.02626,510.10704"
+       id="MI_Isabella"
+       inkscape:label="Isabella, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 464.86322,512.14078 L 480.3034,511.24542 L 481.46866,526.99422 L 465.82827,527.88334 L 464.86322,512.14078"
+       id="MI_Mecosta"
+       inkscape:label="Mecosta, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 464.86322,512.14078 L 465.82827,527.88334 L 466.29875,535.7857 L 458.82281,536.31208 L 450.66495,536.75605 L 450.19381,528.86772 L 449.32743,513.04906 L 464.86322,512.14078"
+       id="MI_Newaygo"
+       inkscape:label="Newaygo, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 436.52524,513.58725 L 449.32743,513.04906 L 450.19381,528.86772 L 436.33044,529.38247 L 434.19217,524.74426 L 433.84498,523.99921 L 433.48594,522.91943 L 433.37935,522.21776 L 433.35215,521.69232 L 433.40477,521.04412 L 433.65218,520.15212 L 434.22353,519.18089 L 435.09297,517.93925 L 435.71568,516.9248 L 436.18044,515.75845 L 436.39602,514.94229 L 436.53596,513.72848 L 436.52524,513.58725"
+       id="MI_Oceana"
+       inkscape:label="Oceana, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 528.60901,491.68341 L 528.6215,493.37952 L 528.5829,494.53493 L 528.40217,496.58747 L 525.51156,499.67958 L 522.83285,500.29505 L 522.05269,500.35209 L 520.69458,500.28604 L 520.10525,500.68653 L 519.90148,500.89822 L 519.22594,501.7694 L 518.40341,503.70982 L 518.30496,504.07087 L 513.97779,504.37048 L 513.64264,500.4848 L 509.70867,500.80001 L 509.1579,493.31938 L 518.28214,492.60582 L 528.60901,491.68341"
+       id="MI_Arenac"
+       inkscape:label="Arenac, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 509.1579,493.31938 L 510.28791,508.56343 L 503.78428,508.91548 L 503.83274,509.58267 L 496.02626,510.10704 L 494.83285,494.43076 L 502.61348,493.85939 L 509.1579,493.31938"
+       id="MI_Gladwin"
+       inkscape:label="Gladwin, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 486.94564,494.9512 L 494.83285,494.43076 L 496.02626,510.10704 L 480.3034,511.24542 L 479.30475,495.32534 L 486.94564,494.9512"
+       id="MI_Clare"
+       inkscape:label="Clare, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 479.30475,495.32534 L 480.3034,511.24542 L 464.86322,512.14078 L 463.81152,496.299 L 471.26751,495.82091 L 479.30475,495.32534"
+       id="MI_Osceola"
+       inkscape:label="Osceola, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 463.81152,496.299 L 464.86322,512.14078 L 449.32743,513.04906 L 448.31765,497.06863 L 455.49549,496.81267 L 463.81152,496.299"
+       id="MI_Lake"
+       inkscape:label="Lake, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 437.11855,497.19232 L 448.31765,497.06863 L 449.32743,513.04906 L 436.52524,513.58725 L 435.1272,506.74785 L 435.85955,499.93464 L 437.11855,497.19232"
+       id="MI_Mason"
+       inkscape:label="Mason, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 516.96307,476.90936 L 535.27761,475.28144 L 535.39076,476.42665 L 535.4408,479.66529 L 534.85735,483.48871 L 532.06986,486.41348 L 531.4783,486.20882 L 530.95105,486.20077 L 530.27617,486.40715 L 530.01866,486.56699 L 529.56134,487.14626 L 529.18148,487.79614 L 528.89523,488.76363 L 528.60901,491.68341 L 518.28214,492.60582 L 516.96307,476.90936"
+       id="MI_Iosco"
+       inkscape:label="Iosco, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 516.96307,476.90936 L 518.28214,492.60582 L 509.1579,493.31938 L 502.61348,493.85939 L 501.39618,478.16788 L 516.96307,476.90936"
+       id="MI_Ogemaw"
+       inkscape:label="Ogemaw, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 485.8764,479.10859 L 501.39618,478.16788 L 502.61348,493.85939 L 494.83285,494.43076 L 486.94564,494.9512 L 485.8764,479.10859"
+       id="MI_Roscommon"
+       inkscape:label="Roscommon, MI" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 485.8764,479.10859 L 486.94564,494.9512 L 479.30475,495.32534 L 471.26751,495.82091 L 470.28841,480.07766 L 485.8764,479.10859"
+       id="MI_Missaukee"
+       inkscape:label="Missaukee, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 454.69211,481.00058 L 470.28841,480.07766 L 471.26751,495.82091 L 463.81152,496.299 L 455.49549,496.81267 L 454.69211,481.00058"
+       id="MI_Wexford"
+       inkscape:label="Wexford, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 454.69211,481.00058 L 455.49549,496.81267 L 448.31765,497.06863 L 437.11855,497.19232 L 440.53881,489.42994 L 440.94851,486.86441 L 441.0238,485.96756 L 441.25338,481.53596 L 454.69211,481.00058"
+       id="MI_Manistee"
+       inkscape:label="Manistee, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 515.6666,461.18232 L 533.84625,459.5795 L 534.61172,460.83734 L 535.92922,466.00548 L 535.90971,467.13018 L 535.27761,475.28144 L 516.96307,476.90936 L 515.6666,461.18232"
+       id="MI_Alcona"
+       inkscape:label="Alcona, MI" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 500.18044,462.44477 L 515.6666,461.18232 L 516.96307,476.90936 L 501.39618,478.16788 L 500.18044,462.44477"
+       id="MI_Oscoda"
+       inkscape:label="Oscoda, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 484.89732,463.36534 L 500.18044,462.44477 L 501.39618,478.16788 L 485.8764,479.10859 L 484.89732,463.36534"
+       id="MI_Crawford"
+       inkscape:label="Crawford, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 484.89732,463.36534 L 485.8764,479.10859 L 470.28841,480.07766 L 469.45188,466.46597 L 469.61993,464.89123 L 469.67648,464.66884 L 470.64901,464.27293 L 484.89732,463.36534"
+       id="MI_Kalkaska"
+       inkscape:label="Kalkaska, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 465.9937,464.15909 L 469.45188,466.46597 L 470.28841,480.07766 L 454.69211,481.00058 L 454.08241,469.16226 L 459.67712,468.76601 L 465.9937,464.15909"
+       id="MI_Grand_Traverse"
+       inkscape:label="Grand Treverse, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 454.08241,469.16226 L 454.69211,481.00058 L 441.25338,481.53596 L 441.48128,480.10482 L 441.55563,479.29939 L 441.33128,478.05379 L 441.07792,477.40479 L 440.27582,475.67027 L 440.06679,474.97769 L 440.08589,473.93388 L 440.12976,473.68275 L 440.32145,473.35789 L 440.83118,473.00279 L 442.72207,472.23995 L 444.82936,471.65651 L 445.34328,471.14331 L 445.66944,470.3677 L 445.77276,469.83453 L 445.77449,469.43713 L 454.08241,469.16226"
+       id="MI_Benzie"
+       inkscape:label="Benzie, MI" />
+    <path
+       style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 459.67712,468.76601 L 454.08241,469.16226 L 445.77449,469.43713 L 445.61771,465.50032 L 446.79355,463.52783 L 449.51805,461.24724 L 454.83538,458.1641 L 455.53614,456.48509 L 459.25797,450.11629 L 461.34668,448.90227 L 461.67725,448.90428 L 462.1887,449.8156 L 459.89448,462.0544 L 459.76705,462.14318 L 459.22199,463.87549 L 459.13645,464.33213 L 459.0994,465.45597 L 459.18717,466.25522 L 459.67712,468.76601"
+       id="MI_Leelanau"
+       inkscape:label="Leelanau, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 530.38826,444.03227 L 532.82987,446.98974 L 534.95388,451.84886 L 534.79111,452.01331 L 534.25007,451.92719 L 532.51776,451.38214 L 531.93388,451.01957 L 531.57876,450.50983 L 530.5262,450.23703 L 529.48438,450.90044 L 529.25057,451.22324 L 528.93999,451.96794 L 528.91827,452.12518 L 529.20733,453.99303 L 529.55389,455.69131 L 529.76512,456.19405 L 529.96999,456.53818 L 530.24197,456.80469 L 531.3371,457.79363 L 533.84625,459.5795 L 515.6666,461.18232 L 515.06805,454.17777 L 515.11325,453.61011 L 515.2725,453.30126 L 514.65046,445.54983 L 530.38826,444.03227"
+       id="MI_Alpena"
+       inkscape:label="Alpena, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 514.65046,445.54983 L 515.2725,453.30126 L 515.11325,453.61011 L 515.06805,454.17777 L 515.6666,461.18232 L 500.18044,462.44477 L 499.17526,446.87614 L 503.00959,446.58421 L 514.65046,445.54983"
+       id="MI_Montmorency"
+       inkscape:label="Montmorency, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 487.45584,447.57253 L 499.17526,446.87614 L 500.18044,462.44477 L 484.89732,463.36534 L 483.80327,451.72156 L 487.45584,447.57253"
+       id="MI_Otsego"
+       inkscape:label="Otsego, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 466.58655,448.71388 L 466.96443,448.68302 L 471.84353,448.46301 L 472.03257,451.73655 L 473.25844,452.35196 L 479.22298,451.94555 L 483.80327,451.72156 L 484.89732,463.36534 L 470.64901,464.27293 L 469.67648,464.66884 L 469.61993,464.89123 L 469.45188,466.46597 L 465.9937,464.15909 L 466.27358,463.53952 L 466.82013,462.13794 L 467.10264,461.24766 L 467.47793,458.15985 L 467.64548,454.93178 L 467.49742,452.76827 L 466.58655,448.71388"
+       id="MI_Antrim"
+       inkscape:label="Antrim, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 476.14243,440.93332 L 478.21516,443.95375 L 479.82875,444.04628 L 487.21851,443.62828 L 487.45584,447.57253 L 483.80327,451.72156 L 479.22298,451.94555 L 473.25844,452.35196 L 472.03257,451.73655 L 471.84353,448.46301 L 466.96443,448.68302 L 466.58655,448.71388 L 466.45361,447.46921 L 466.89999,445.81301 L 467.38822,445.24932 L 468.32694,444.24672 L 468.82091,443.7818 L 471.81522,441.59524 L 472.21902,441.39326 L 473.88089,440.85497 L 476.14243,440.93332"
+       id="MI_Charlevoix"
+       inkscape:label="Charlevoix, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 530.38826,444.03227 L 514.65046,445.54983 L 503.00959,446.58421 L 502.19235,436.04788 L 501.3977,427.28905 L 502.90693,427.14084 L 505.64968,430.77777 L 516.26275,435.54321 L 523.10377,438.01814 L 524.03111,438.18988 L 525.80988,438.06885 L 526.34638,437.52509 L 526.59333,437.58282 L 528.13504,439.5151 L 530.38826,444.03227"
+       id="MI_Presque_Isle"
+       inkscape:label="Presque Isle, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 487.21851,443.62828 L 485.65467,421.10274 L 486.24164,422.05291 L 494.65983,426.59905 L 497.3563,426.26938 L 498.80958,425.75261 L 502.5284,426.82343 L 502.90693,427.14084 L 501.3977,427.28905 L 502.19235,436.04788 L 503.00959,446.58421 L 499.17526,446.87614 L 487.45584,447.57253 L 487.21851,443.62828"
+       id="MI_Cheboygan"
+       inkscape:label="Cheboygan, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 448.60458,402.78213 L 468.32588,401.52162 L 472.24008,401.25116 L 472.52303,405.19763 L 496.0831,403.55396 L 499.5979,407.22845 L 500.55091,410.77834 L 504.5322,411.08101 L 497.81452,412.57997 L 491.2415,410.81455 L 484.95262,413.98411 L 476.06109,411.64865 L 472.28858,410.30788 L 465.68005,408.62165 L 463.25073,408.37687 L 462.77193,408.38525 L 460.49239,408.74926 L 460.10288,408.87455 L 459.82344,409.05091 L 459.26152,409.61102 L 457.40262,411.95833 L 457.0331,412.97454 L 455.9577,414.61773 L 455.68898,414.93532 L 454.65465,415.3001 L 449.28251,415.24286 L 448.60458,402.78213"
+       id="MI_Mackinac"
+       inkscape:label="Mackinac, MI" />
+    <path
+       id="MI_Chippewa"
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 514.92554,409.22616 L 515.09113,409.07591 L 515.39094,408.40807 L 515.36134,407.78753 L 515.00556,406.92952 L 514.27192,406.75314 L 513.71897,406.04382 L 513.24255,404.70154 L 513.47926,404.4633 L 513.59242,404.45122 L 519.19681,404.21724 L 519.49708,404.26351 L 520.93432,404.72738 L 524.44651,408.6726 L 524.69085,409.00107 L 524.72794,409.17875 L 523.76154,411.76293 L 523.57226,412.03865 L 523.30712,412.28254 L 522.19858,412.65427 L 516.83351,412.37927 L 515.85482,411.6 L 515.42779,410.97773 L 514.93691,410.36642 L 514.90249,409.69992 L 514.92554,409.22616 M 468.32588,401.52162 L 466.84474,378.52524 L 468.83145,378.03441 L 473.10516,377.894 L 474.0996,379.28961 L 473.7469,380.03226 L 473.56922,380.72012 L 473.52754,381.28794 L 473.19222,388.47221 L 473.25735,389.01358 L 473.44554,389.48354 L 473.99584,390.17513 L 474.27439,390.37862 L 474.60232,390.50714 L 480.53414,391.71372 L 487.43789,390.6565 L 492.4264,388.83778 L 493.166,388.24057 L 500.1258,385.95841 L 501.84257,386.17207 L 502.17022,386.23374 L 502.57293,386.77744 L 502.81465,387.37664 L 502.41349,393.38283 L 502.04209,402.03218 L 505.68174,406.03284 L 506.99357,407.41224 L 508.2828,408.31566 L 511.21661,409.61563 L 511.93423,409.75957 L 512.25599,411.0275 L 511.93646,412.02855 L 507.65335,411.7112 L 505.3341,411.5175 L 504.83883,411.28588 L 504.5322,411.08101 L 500.55091,410.77834 L 499.5979,407.22845 L 496.0831,403.55396 L 472.52303,405.19763 L 472.24008,401.25116 L 468.32588,401.52162"
+       inkscape:label="Chippewa, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 447.92376,391.0318 L 447.49234,382.68813 L 449.64573,382.96521 L 451.04159,383.05069 L 456.15444,382.87019 L 457.55096,382.79741 L 458.57437,382.65722 L 459.43129,382.39639 L 462.83555,380.6765 L 466.84474,378.52524 L 468.32588,401.52162 L 448.60458,402.78213 L 447.92376,391.0318"
+       id="MI_Luce"
+       inkscape:label="Luce, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 447.92376,391.0318 L 448.60458,402.78213 L 449.28251,415.24286 L 447.55549,416.25284 L 442.80631,415.75454 L 442.07551,415.73657 L 438.87234,416.06976 L 438.13294,416.30113 L 436.34957,417.16767 L 435.22506,418.44617 L 434.98333,418.86004 L 434.84581,421.32625 L 434.37753,423.79395 L 434.01084,424.17361 L 431.67121,425.62868 L 431.16914,425.82588 L 431.04434,425.78815 L 430.74651,419.54394 L 429.88846,415.63284 L 429.1454,407.76647 L 425.19104,407.92239 L 424.79642,400.05188 L 432.6637,399.72392 L 432.26891,391.8569 L 447.92376,391.0318"
+       id="MI_Schoolcraft"
+       inkscape:label="Schoolcraft, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 447.92376,391.0318 L 432.26891,391.8569 L 432.6637,399.72392 L 424.79642,400.05188 L 425.19104,407.92239 L 409.42712,408.67536 L 408.74109,393.48808 L 409.92744,392.52918 L 411.76216,391.61941 L 412.03168,391.64659 L 413.03385,391.8712 L 413.45604,392.3033 L 414.07261,393.72979 L 416.13567,395.57486 L 416.41506,395.76081 L 417.21563,395.86306 L 425.41823,394.13733 L 431.32642,389.32058 L 437.44143,384.87975 L 445.60038,383.03933 L 447.49234,382.68813 L 447.92376,391.0318"
+       id="MI_Alger"
+       inkscape:label="Alger, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 409.42712,408.67536 L 425.19104,407.92239 L 429.1454,407.76647 L 429.88846,415.63284 L 430.74651,419.54394 L 431.04434,425.78815 L 429.31448,426.13318 L 428.61702,421.5967 L 420.63483,424.64874 L 414.71196,426.80191 L 414.43515,425.04371 L 414.17261,424.22189 L 413.59883,423.28995 L 413.15225,422.99738 L 412.75374,423.09057 L 412.4934,423.2362 L 412.13501,423.80621 L 406.81839,434.61409 L 405.97572,436.31785 L 405.9551,436.38017 L 403.93855,436.47204 L 403.32529,420.72899 L 402.40608,419.4496 L 401.83165,416.86787 L 405.77195,416.71125 L 405.47191,408.84885 L 409.42712,408.67536"
+       id="MI_Delta"
+       inkscape:label="Delta, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 393.95604,417.14967 L 401.83165,416.86787 L 402.40608,419.4496 L 403.32529,420.72899 L 403.93855,436.47204 L 405.9551,436.38017 L 405.2618,438.62938 L 404.09272,441.83687 L 400.8747,448.26185 L 398.66029,451.48182 L 396.40118,457.42931 L 394.97327,457.13474 L 394.15893,456.95443 L 394.12802,456.93885 L 391.75791,454.17482 L 391.62562,453.92918 L 391.39011,452.98556 L 391.3741,452.95312 L 389.22833,439.35516 L 389.30948,431.17712 L 388.4188,429.96243 L 388.34183,429.88131 L 388.2944,429.84381 L 387.71804,429.32684 L 391.87764,429.14571 L 391.58837,421.20644 L 394.09794,421.10335 L 393.95604,417.14967"
+       id="MI_Menominee"
+       inkscape:label="Menominee, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 377.73862,405.96289 L 393.51257,405.36517 L 393.95604,417.14967 L 394.09794,421.10335 L 391.58837,421.20644 L 391.87764,429.14571 L 387.71804,429.32684 L 380.33746,426.95229 L 379.90627,426.99464 L 379.87535,426.97906 L 379.45268,426.84595 L 379.18905,426.76982 L 378.02946,425.732 L 377.99873,425.71291 L 377.81447,425.30647 L 377.86777,425.15076 L 377.88685,425.12003 L 378.47581,424.43812 L 378.70542,424.2734 L 379.24541,423.58559 L 379.72445,422.84908 L 379.68651,422.68894 L 379.59525,422.54028 L 378.72997,421.16502 L 378.25735,420.82897 L 377.73862,405.96289"
+       id="MI_Dickinson"
+       inkscape:label="Dickinson, MI" />
+    <path
+       style="font-size:12px;fill:#b9d7ff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 378.98221,375.83511 L 383.46889,375.80006 L 386.2233,376.66566 L 387.20263,376.99822 L 391.9626,379.87848 L 393.19917,381.14165 L 393.40488,382.48132 L 393.68628,383.49401 L 400.13008,392.54517 L 400.38229,392.85643 L 400.87117,393.29177 L 401.3614,393.55482 L 402.64603,393.90222 L 404.29104,393.9998 L 408.38906,393.56594 L 408.74109,393.48808 L 409.42712,408.67536 L 405.47191,408.84885 L 405.77195,416.71125 L 401.83165,416.86787 L 393.95604,417.14967 L 393.51257,405.36517 L 377.73862,405.96289 L 377.48549,398.14848 L 377.11812,386.46266 L 380.99964,386.28558 L 380.86563,382.45895 L 380.78996,382.4236 L 379.20179,382.45893 L 378.98221,375.83511"
+       id="MI_Marquette"
+       inkscape:label="Marquette, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 359.81496,398.6856 L 377.48549,398.14848 L 377.73862,405.96289 L 378.25735,420.82897 L 377.53744,420.29796 L 376.36208,419.65688 L 375.58212,419.49231 L 375.5128,419.47135 L 366.36399,417.86911 L 360.80128,418.18603 L 360.20821,416.99989 L 352.27538,414.55275 L 350.40469,413.5261 L 350.14943,402.86232 L 350.03689,398.95579 L 359.81496,398.6856"
+       id="MI_Iron"
+       inkscape:label="Iron, MI" />
+    <path
+       id="MI_Keweenaw"
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 357.4894,322.31393 L 357.73482,321.89672 L 357.79626,321.79066 L 358.30136,321.24186 L 359.60395,320.49616 L 361.61704,319.53525 L 365.39678,318.70248 L 365.55005,319.16722 L 365.51434,319.61222 L 360.77764,324.78845 L 358.07126,326.98549 L 350.80194,332.59433 L 344.35049,335.56252 L 343.32598,335.79763 L 342.30737,335.47723 L 340.92518,334.60448 L 340.26365,333.52405 L 340.51589,332.96646 L 341.48686,331.80714 L 342.55107,330.82824 L 345.0883,329.28778 L 348.14321,327.66347 L 355.08661,323.76593 L 357.4894,322.31393 M 363.87767,359.4858 L 365.4553,356.99114 L 366.67239,355.54478 L 367.55741,354.923 L 372.77511,351.86315 L 373.85865,351.4269 L 378.21877,350.44999 L 380.10477,350.22161 L 381.63945,350.20127 L 385.59905,350.29886 L 386.99865,350.81366 L 387.81871,351.31084 L 388.28877,351.69952 L 388.51752,353.2162 L 388.47869,353.43592 L 385.30957,354.29839 L 384.94614,354.24906 L 380.69896,354.92894 L 375.74775,361.18871 L 374.82633,362.26955 L 372.83479,363.07673 L 370.64278,363.16007 L 370.49781,359.26957 L 363.87767,359.4858"
+       inkscape:label="Keweenaw, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 363.87767,359.4858 L 370.49781,359.26957 L 370.64278,363.16007 L 372.83479,363.07673 L 366.33967,374.68207 L 363.11461,375.17598 L 359.28485,379.20736 L 359.81496,398.6856 L 350.03689,398.95579 L 349.86713,392.32033 L 349.8033,387.19558 L 353.70391,387.132 L 353.61709,383.27598 L 351.47574,383.33013 L 351.14365,371.28019 L 351.9916,368.81689 L 352.4353,368.15604 L 354.68765,366.2535 L 358.19079,363.29671 L 359.01134,362.62605 L 363.87767,359.4858"
+       id="MI_Houghton"
+       inkscape:label="Houghton, MI" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92782754"
+       d="M 378.98221,375.83511 L 379.20179,382.45893 L 380.78996,382.4236 L 380.86563,382.45895 L 380.99964,386.28558 L 377.11812,386.46266 L 377.48549,398.14848 L 359.81496,398.6856 L 359.28485,379.20736 L 363.11461,375.17598 L 366.33967,374.68207 L 365.57462,377.466 L 365.40269,379.91645 L 365.44304,380.17168 L 365.75867,381.05941 L 366.13129,381.93231 L 366.87483,381.90515 L 367.00249,381.59478 L 367.56772,380.7499 L 369.19032,378.70416 L 372.71984,375.27729 L 375.44726,373.5878 L 375.80013,373.4924 L 376.13903,373.68476 L 378.98221,375.83511"
+       id="MI_Baraga"
+       inkscape:label="Baraga, MI" />
+    <path
+       style="font-size:12px;fill:#4389e3;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.09278275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 535.51963,570.04742 L 537.24716,585.87984 L 529.42839,586.65689 L 517.53395,588.05886 L 516.3143,572.05414 L 531.80446,570.49288 L 535.51963,570.04742"
+       id="MI_Washtenaw"
+       inkscape:label="Washtenaw, MI" />
+    <path
+       style="font-size:12px;fill:#e27f90;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.09278275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 487.21851,443.62828 L 479.82875,444.04628 L 478.21516,443.95375 L 476.14243,440.93332 L 477.74795,440.75812 L 479.72703,440.20713 L 481.05349,439.33244 L 481.13817,438.89333 L 481.11142,438.57544 L 480.98093,438.22085 L 480.77103,438.05236 L 478.8788,437.83018 L 478.58362,438.04095 L 476.95746,437.62768 L 475.96608,436.67544 L 475.32762,435.91624 L 474.51591,433.94559 L 474.27304,433.15287 L 474.04912,431.82638 L 474.06295,431.54214 L 474.24896,431.04464 L 475.29802,429.00267 L 475.68756,428.51508 L 479.20037,425.0698 L 483.65543,423.08091 L 483.98777,422.82974 L 485.65467,421.10274 L 487.21851,443.62828"
+       id="MI_Emmet"
+       inkscape:label="Emmet, MI" />
+  </g>
+</svg>

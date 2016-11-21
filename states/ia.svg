@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="284.95844"
+   height="191.45757"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r"
+   sodipodi:docname="Iowa_Presidential_Election_Results_2016.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective6877"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient15484">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop15486" />
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="1"
+         id="stop15488" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13400">
+      <stop
+         id="stop13402"
+         offset="0"
+         style="stop-color:#ffff00;stop-opacity:1;" />
+      <stop
+         id="stop13404"
+         offset="1"
+         style="stop-color:#000080;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4594176"
+     inkscape:cx="106.83553"
+     inkscape:cy="66.655932"
+     inkscape:document-units="px"
+     inkscape:current-layer="g2501"
+     showgrid="false"
+     inkscape:window-width="1918"
+     inkscape:window-height="774"
+     inkscape:window-x="0"
+     inkscape:window-y="215"
+     showborder="true"
+     borderlayer="false"
+     width="989px"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.3779342,-7.4702422)">
+    <g
+       transform="translate(-43.848181,-182.14407)"
+       id="g2501"
+       inkscape:label="Layer 1">
+      <path
+         inkscape:label="Scott, IA"
+         id="IA_Scott"
+         d="M 300.70717,296.14173 L 305.68049,296.03149 L 320.56036,296.08423 L 326.55208,298.05558 L 325.65448,304.54052 L 323.23956,307.57887 L 320.49194,310.58345 L 311.92512,314.49187 L 308.30201,315.29422 L 306.77696,315.28729 L 306.13589,315.18341 L 300.86903,306.61962 L 300.70717,296.14173"
+         style="font-size:12px;fill:#b9d7ff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Clinton, IA"
+         id="IA_Clinton"
+         d="M 300.3755,280.37802 L 333.24294,279.56272 L 333.5253,285.8257 L 329.79481,294.64491 L 326.55208,298.05558 L 320.56036,296.08423 L 305.68049,296.03149 L 300.70717,296.14173 L 300.47633,285.64774 L 300.3755,280.37802"
+         style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Lyon, IA"
+         id="IA_Lyon"
+         d="M 51.862543,190.27355 L 58.159773,190.51613 L 75.460323,191.12824 L 83.749593,191.41583 L 83.263033,205.94342 L 52.148153,204.71916 L 51.862543,190.27355"
+         style="font-size:12px;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Sioux, IA"
+         id="IA_Sioux"
+         d="M 52.148153,204.71916 L 83.263033,205.94342 L 82.744693,226.8445 L 53.795983,225.87478 L 57.153213,215.53234 L 57.901913,213.71571 L 58.040103,213.30753 L 56.559943,207.24278 L 56.153963,207.03512 L 53.042193,206.92196 L 52.148153,204.71916"
+         style="font-size:12px;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Plymouth, IA"
+         id="IA_Plymouth"
+         d="M 82.744693,226.8445 L 82.077733,247.75477 L 54.921923,246.82368 L 53.471123,242.60037 L 52.398983,240.74886 L 51.001353,239.3645 L 49.885353,238.45268 L 51.891533,230.4964 L 53.795983,225.87478 L 82.744693,226.8445"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Cherokee, IA"
+         id="IA_Cherokee"
+         d="M 103.31115,227.38924 L 102.78819,248.2902 L 87.279833,247.88363 L 82.077733,247.75477 L 82.744693,226.8445 L 103.31115,227.38924"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="O'Brien, IA"
+         id="IA_OBrien"
+         d="M 83.263033,205.94342 L 103.84254,206.6601 L 103.31115,227.38924 L 82.744693,226.8445 L 83.263033,205.94342"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <rect
+         transform="matrix(0.9994917,3.1880604e-2,-3.1880604e-2,0.9994917,0,0)"
+         id="IA_Osceola"
+         y="188.54184"
+         x="89.786186"
+         height="14.702546"
+         width="20.591904"
+         style="fill:#d40000;fill-opacity:1;stroke:#ffffff;stroke-width:1.31847548"
+         inkscape:label="#rect6298" />
+      <path
+         inkscape:label="Dickinson, IA"
+         id="IA_Dickinson"
+         d="M 104.23254,191.96253 L 124.67167,192.42901 L 124.43004,207.12672 L 103.84254,206.6601 L 104.23254,191.96253"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Clay, IA"
+         id="IA_Clay"
+         d="M 103.84254,206.6601 L 124.43004,207.12672 L 124.00039,227.86374 L 103.31115,227.38924 L 103.84254,206.6601"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Buena Vista, IA"
+         id="IA_Buena_Vista"
+         d="M 124.00039,227.86374 L 123.53976,248.84548 L 102.78819,248.2902 L 103.31115,227.38924 L 124.00039,227.86374"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Pocahontas, IA"
+         id="IA_Pocahontas"
+         d="M 124.00039,227.86374 L 144.54604,228.33363 L 144.29224,244.13893 L 144.23436,249.29695 L 123.53976,248.84548 L 124.00039,227.86374"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Palo Alto, IA"
+         id="IA_Palo_Alto"
+         d="M 144.8533,207.50926 L 144.54604,228.33363 L 124.00039,227.86374 L 124.43004,207.12672 L 144.8533,207.50926"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Emmet, IA"
+         id="IA_Emmet"
+         d="M 145.09585,192.7838 L 144.8533,207.50926 L 124.43004,207.12672 L 124.67167,192.42901 L 127.30358,192.47127 L 145.09585,192.7838"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Kossuth, IA"
+         id="IA_Kossuth"
+         d="M 165.52118,193.10151 L 165.38724,207.76553 L 165.11571,228.63276 L 144.54604,228.33363 L 144.8533,207.50926 L 145.09585,192.7838 L 153.55716,192.90996 L 165.52118,193.10151"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Humboldt, IA"
+         id="IA_Humboldt"
+         d="M 144.54604,228.33363 L 165.11571,228.63276 L 164.9505,244.42234 L 144.29224,244.13893 L 144.54604,228.33363"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Woodbury, IA"
+         id="IA_Woodbury"
+         d="M 82.077733,247.75477 L 87.279833,247.88363 L 87.159803,252.22834 L 88.846323,253.13054 L 90.282033,253.17634 L 89.777413,268.99681 L 59.579263,267.81105 L 60.243633,264.13271 L 58.985083,261.58449 L 58.685643,254.69515 L 59.022373,253.87601 L 59.033233,252.95379 L 58.870003,252.25783 L 58.427403,251.59932 L 57.851093,251.35377 L 56.353953,251.19938 L 54.921923,246.82368 L 82.077733,247.75477"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Ida, IA"
+         id="IA_Ida"
+         d="M 102.78819,248.2902 L 102.6634,253.51099 L 105.52165,253.57898 L 105.08022,269.45247 L 89.777413,268.99681 L 90.282033,253.17634 L 88.846323,253.13054 L 87.159803,252.22834 L 87.279833,247.88363 L 102.78819,248.2902"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Sac, IA"
+         id="IA_Sac"
+         d="M 102.78819,248.2902 L 123.53976,248.84548 L 123.41672,254.0107 L 125.96392,254.09195 L 125.58242,269.97662 L 115.33132,269.71454 L 105.08022,269.45247 L 105.52165,253.57898 L 102.6634,253.51099 L 102.78819,248.2902"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Calhoun, IA"
+         id="IA_Calhoun"
+         d="M 123.53976,248.84548 L 144.23436,249.29695 L 144.13536,254.43513 L 146.13667,254.4804 L 145.90384,270.35591 L 135.71041,270.17447 L 125.58242,269.97662 L 125.96392,254.09195 L 123.41672,254.0107 L 123.53976,248.84548"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Webster, IA"
+         id="IA_Webster"
+         d="M 164.9505,244.42234 L 164.82859,254.78457 L 166.58445,254.82202 L 166.43521,270.5472 L 156.16012,270.45589 L 145.90384,270.35591 L 146.13667,254.4804 L 144.13536,254.43513 L 144.23436,249.29695 L 144.29224,244.13893 L 164.9505,244.42234"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Greene, IA"
+         id="IA_Greene"
+         d="M 145.90384,270.35591 L 156.16012,270.45589 L 155.93113,291.29667 L 150.76878,291.22937 L 135.33774,291.01531 L 135.71041,270.17447 L 145.90384,270.35591"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Carroll, IA"
+         id="IA_Carroll"
+         d="M 125.58242,269.97662 L 135.71041,270.17447 L 135.33774,291.01531 L 130.19898,290.93485 L 114.79132,290.56857 L 115.33132,269.71454 L 125.58242,269.97662"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Crawford, IA"
+         id="IA_Crawford"
+         d="M 115.33132,269.71454 L 114.79132,290.56857 L 94.229043,290.03788 L 89.110143,289.91635 L 89.777413,268.99681 L 105.08022,269.45247 L 115.33132,269.71454"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Monona, IA"
+         id="IA_Monona"
+         d="M 89.777413,268.99681 L 89.110143,289.91635 L 68.431403,289.11302 L 62.911163,278.02846 L 59.579263,267.81105 L 89.777413,268.99681"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Harrison, IA"
+         id="IA_Harrison"
+         d="M 94.229043,290.03788 L 93.746193,305.75707 L 96.419193,305.81914 L 96.257833,311.60437 L 74.759413,310.91865 L 68.871773,300.16075 L 68.431403,289.11302 L 89.110143,289.91635 L 94.229043,290.03788"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Shelby, IA"
+         id="IA_Shelby"
+         d="M 94.229043,290.03788 L 114.79132,290.56857 L 114.43427,306.26858 L 116.75514,306.32407 L 116.63367,312.16619 L 111.53838,312.03148 L 96.257833,311.60437 L 96.419193,305.81914 L 93.746193,305.75707 L 94.229043,290.03788"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Audubon, IA"
+         id="IA_Audubon"
+         d="M 114.79132,290.56857 L 130.19898,290.93485 L 129.99273,303.94153 L 131.87785,306.61175 L 131.76853,312.50988 L 116.63367,312.16619 L 116.75514,306.32407 L 114.43427,306.26858 L 114.79132,290.56857"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Guthrie, IA"
+         id="IA_Guthrie"
+         d="M 135.33774,291.01531 L 150.76878,291.22937 L 150.56365,306.96203 L 152.29575,307.01728 L 152.21106,312.86984 L 131.76853,312.50988 L 131.87785,306.61175 L 129.99273,303.94153 L 130.19898,290.93485 L 135.33774,291.01531"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Adair, IA"
+         id="IA_Adair"
+         d="M 152.21106,312.86984 L 151.92652,333.70886 L 141.67275,333.53014 L 131.40119,333.32769 L 131.76853,312.50988 L 152.21106,312.86984"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Cass, IA"
+         id="IA_Cass"
+         d="M 131.76853,312.50988 L 131.40119,333.32769 L 121.2275,333.10981 L 111.01836,332.83981 L 111.53838,312.03148 L 116.63367,312.16619 L 131.76853,312.50988"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Pottawattamie, IA"
+         id="IA_Pottawattamie"
+         d="M 96.257833,311.60437 L 111.53838,312.03148 L 111.01836,332.83981 L 100.85004,332.59892 L 79.831793,331.97487 L 76.761003,329.99472 L 76.481603,317.82555 L 74.759413,310.91865 L 96.257833,311.60437"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Fremont, IA"
+         id="IA_Fremont"
+         d="M 80.716603,347.54761 L 100.37444,348.09117 L 100.18092,356.19334 L 100.48974,362.93469 L 100.38843,367.41909 L 82.735233,366.67057 L 79.086993,354.59795 L 80.716603,347.54761"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Mills, IA"
+         id="IA_Mills"
+         d="M 100.85004,332.59892 L 100.37444,348.09117 L 80.716603,347.54761 L 79.008073,338.75888 L 79.831793,331.97487 L 100.85004,332.59892"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Montgomery, IA"
+         id="IA_Montgomery"
+         d="M 111.01836,332.83981 L 121.2275,333.10981 L 120.85813,348.61472 L 100.37444,348.09117 L 100.85004,332.59892 L 111.01836,332.83981"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Page, IA"
+         id="IA_Page"
+         d="M 120.85813,348.61472 L 120.65543,359.03923 L 121.34084,359.0611 L 121.09019,368.22775 L 108.11135,367.73033 L 100.38843,367.41909 L 100.48974,362.93469 L 100.18092,356.19334 L 100.37444,348.09117 L 120.85813,348.61472"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Taylor, IA"
+         id="IA_Taylor"
+         d="M 141.42755,349.06683 L 141.08881,368.84249 L 133.84731,368.69958 L 121.09019,368.22775 L 121.34084,359.0611 L 120.65543,359.03923 L 120.85813,348.61472 L 141.42755,349.06683"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Adams, IA"
+         id="IA_Adams"
+         d="M 141.67275,333.53014 L 141.42755,349.06683 L 120.85813,348.61472 L 121.2275,333.10981 L 131.40119,333.32769 L 141.67275,333.53014"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Union, IA"
+         id="IA_Union"
+         d="M 151.92652,333.70886 L 162.09751,333.86641 L 161.9097,349.49299 L 141.42755,349.06683 L 141.67275,333.53014 L 151.92652,333.70886"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Ringgold, IA"
+         id="IA_Ringgold"
+         d="M 141.42755,349.06683 L 161.9097,349.49299 L 161.64643,368.93725 L 151.86932,368.93137 L 141.08881,368.84249 L 141.42755,349.06683"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Decatur, IA"
+         id="IA_Decatur"
+         d="M 161.9097,349.49299 L 182.46688,349.60164 L 182.33873,368.73496 L 172.53535,368.82561 L 161.64643,368.93725 L 161.9097,349.49299"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Clarke, IA"
+         id="IA_Clarke"
+         d="M 182.53631,333.76265 L 182.46688,349.60164 L 161.9097,349.49299 L 162.09751,333.86641 L 172.17395,333.64539 L 182.53631,333.76265"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Madison, IA"
+         id="IA_Madison"
+         d="M 172.30334,312.58354 L 172.17395,333.64539 L 162.09751,333.86641 L 151.92652,333.70886 L 152.21106,312.86984 L 172.30334,312.58354"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Dallas, IA"
+         id="IA_Dallas"
+         d="M 171.35079,291.43154 L 171.3052,304.63343 L 172.32415,307.28061 L 172.30334,312.58354 L 152.21106,312.86984 L 152.29575,307.01728 L 150.56365,306.96203 L 150.76878,291.22937 L 155.93113,291.29667 L 171.35079,291.43154"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Boone, IA"
+         id="IA_Boone"
+         d="M 176.71345,270.68499 L 176.57426,291.47299 L 171.35079,291.43154 L 155.93113,291.29667 L 156.16012,270.45589 L 166.43521,270.5472 L 176.71345,270.68499"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Hamilton, IA"
+         id="IA_Hamilton"
+         d="M 185.60759,249.8285 L 187.09103,270.76099 L 176.71345,270.68499 L 166.43521,270.5472 L 166.58445,254.82202 L 164.82859,254.78457 L 164.89114,249.62668 L 185.60759,249.8285"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Wright, IA"
+         id="IA_Wright"
+         d="M 165.11571,228.63276 L 185.76075,228.74885 L 185.60759,249.8285 L 164.89114,249.62668 L 164.9505,244.42234 L 165.11571,228.63276"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Hancock, IA"
+         id="IA_Hancock"
+         d="M 185.92442,207.91992 L 185.76075,228.74885 L 165.11571,228.63276 L 165.38724,207.76553 L 185.92442,207.91992"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Winnebago, IA"
+         id="IA_Winnebago"
+         d="M 186.0161,193.27308 L 185.92442,207.91992 L 165.38724,207.76553 L 165.52118,193.10151 L 179.45288,193.23062 L 186.0161,193.27308"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Worth, IA"
+         id="IA_Worth"
+         d="M 206.4687,193.31812 L 206.47877,207.97284 L 185.92442,207.91992 L 186.0161,193.27308 L 205.40202,193.33048 L 206.4687,193.31812"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Cerro Gordo, IA"
+         id="IA_Cerro_Gordo"
+         d="M 185.92442,207.91992 L 206.47877,207.97284 L 206.4803,210.54124 L 206.42042,228.84225 L 185.76075,228.74885 L 185.92442,207.91992"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Franklin, IA"
+         id="IA_Franklin"
+         d="M 185.76075,228.74885 L 206.42042,228.84225 L 206.33151,249.94248 L 185.60759,249.8285 L 185.76075,228.74885"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Hardin, IA"
+         id="IA_Hardin"
+         d="M 206.33151,249.94248 L 207.44622,270.80758 L 197.28826,270.822 L 187.09103,270.76099 L 185.60759,249.8285 L 206.33151,249.94248"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Story, IA"
+         id="IA_Story"
+         d="M 197.28826,270.822 L 197.22722,291.63108 L 192.0919,291.58781 L 176.57426,291.47299 L 176.71345,270.68499 L 187.09103,270.76099 L 197.28826,270.822"
+         style="font-size:12px;fill:#86b6f2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Polk, IA"
+         id="IA_Polk"
+         d="M 192.0919,291.58781 L 192.85154,312.9747 L 192.858,313.93456 L 172.30334,312.58354 L 172.32415,307.28061 L 171.3052,304.63343 L 171.35079,291.43154 L 176.57426,291.47299 L 192.0919,291.58781"
+         style="font-size:12px;fill:#86b6f2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Warren, IA"
+         id="IA_Warren"
+         d="M 192.858,313.93456 L 192.80722,333.83993 L 182.53631,333.76265 L 172.17395,333.64539 L 172.30334,312.58354 L 192.858,313.93456"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Lucas, IA"
+         id="IA_Lucas"
+         d="M 192.80722,333.83993 L 203.05167,333.87461 L 203.08606,349.65665 L 182.46688,349.60164 L 182.53631,333.76265 L 192.80722,333.83993"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Wayne, IA"
+         id="IA_Wayne"
+         d="M 203.08606,349.65665 L 203.08945,368.59017 L 190.58966,368.77097 L 182.33873,368.73496 L 182.46688,349.60164 L 203.08606,349.65665"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Appanoose, IA"
+         id="IA_Appanoose"
+         d="M 223.67634,349.59948 L 223.81225,368.15707 L 220.36054,368.23707 L 203.08945,368.59017 L 203.08606,349.65665 L 223.67634,349.59948"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Monroe, IA"
+         id="IA_Monroe"
+         d="M 223.56757,333.82433 L 223.67634,349.59948 L 203.08606,349.65665 L 203.05167,333.87461 L 213.31135,333.86806 L 223.56757,333.82433"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Marion, IA"
+         id="IA_Marion"
+         d="M 213.22281,312.95226 L 213.31135,333.86806 L 203.05167,333.87461 L 192.80722,333.83993 L 192.858,313.93456 L 192.85154,312.9747 L 213.22281,312.95226"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Jasper, IA"
+         id="IA_Jasper"
+         d="M 197.22722,291.63108 L 217.84713,291.6629 L 218.32331,312.92485 L 213.22281,312.95226 L 192.85154,312.9747 L 192.0919,291.58781 L 197.22722,291.63108"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Marshall, IA"
+         id="IA_Marshall"
+         d="M 207.44622,270.80758 L 217.74427,270.76054 L 217.84713,291.6629 L 197.22722,291.63108 L 197.28826,270.822 L 207.44622,270.80758"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="Grundy, IA"
+         id="IA_Grundy"
+         d="M 227.1002,249.96054 L 228.02833,265.48363 L 217.74006,265.56123 L 217.74427,270.76054 L 207.44622,270.80758 L 206.33151,249.94248 L 227.1002,249.96054"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Butler, IA"
+         id="IA_Butler"
+         d="M 206.42042,228.84225 L 226.96216,228.85307 L 227.0205,244.75641 L 227.1002,249.96054 L 206.33151,249.94248 L 206.42042,228.84225"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Floyd, IA"
+         id="IA_Floyd"
+         d="M 206.4803,210.54124 L 226.87531,210.50103 L 226.96216,228.85307 L 206.42042,228.84225 L 206.4803,210.54124"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Mitchcell, IA"
+         id="IA_Mitchell"
+         d="M 226.86493,193.24085 L 226.87531,210.50103 L 206.4803,210.54124 L 206.4687,193.31812 L 226.86493,193.24085"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Howard, IA"
+         id="IA_Howard"
+         d="M 231.3811,193.21804 L 247.32416,193.07751 L 247.46424,210.34182 L 226.87531,210.50103 L 226.86493,193.24085 L 231.3811,193.21804"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Chickasaw, IA"
+         id="IA_Chickasaw"
+         d="M 247.46424,210.34182 L 247.50215,218.16392 L 247.58754,228.71356 L 226.96216,228.85307 L 226.87531,210.50103 L 247.46424,210.34182"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Bremer, IA"
+         id="IA_Bremer"
+         d="M 226.96216,228.85307 L 247.58754,228.71356 L 247.73388,244.61969 L 227.0205,244.75641 L 226.96216,228.85307"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Black Hawk, IA"
+         id="IA_Black_Hawk"
+         d="M 247.73388,244.61969 L 247.8494,255.09613 L 248.6266,256.45605 L 248.67702,265.34024 L 238.37357,265.41031 L 228.02833,265.48363 L 227.1002,249.96054 L 227.0205,244.75641 L 247.73388,244.61969"
+         style="font-size:12px;fill:#86b6f2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Tama, IA"
+         sodipodi:nodetypes="ccccc"
+         id="IA_Tama"
+         d="M 238.37357,265.41031 L 238.58303,291.54546 L 217.84713,291.6629 L 217.72285,265.55669 L 238.37357,265.41031"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Poweshiek, IA"
+         id="IA_Poweshiek"
+         d="M 217.84713,291.6629 L 238.58303,291.54546 L 238.7679,312.78425 L 233.66223,312.82999 L 218.32331,312.92485 L 217.84713,291.6629"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Mahaska, IA"
+         id="IA_Mahaska"
+         d="M 218.32331,312.92485 L 233.66223,312.82999 L 233.87621,333.73592 L 223.56757,333.82433 L 213.31135,333.86806 L 213.22281,312.95226 L 218.32331,312.92485"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Wapello, IA"
+         id="IA_Wapello"
+         d="M 233.87621,333.73592 L 244.18112,333.61956 L 244.34398,349.44279 L 223.67634,349.59948 L 223.56757,333.82433 L 233.87621,333.73592"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Davis, IA"
+         id="IA_Davis"
+         d="M 244.34398,349.44279 L 244.4561,367.43866 L 236.76149,367.69391 L 223.81225,368.15707 L 223.67634,349.59948 L 244.34398,349.44279"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Van Buren, IA"
+         id="IA_Van_Buren"
+         d="M 244.34398,349.44279 L 265.03937,349.14324 L 265.08459,354.41116 L 265.35415,367.32638 L 255.12738,367.02802 L 244.4561,367.43866 L 244.34398,349.44279"
+         style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Jefferson, IA"
+         id="IA_Jefferson"
+         d="M 264.93464,333.38679 L 265.03937,349.14324 L 244.34398,349.44279 L 244.18112,333.61956 L 254.64988,333.45277 L 264.93464,333.38679"
+         style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Benton, IA"
+         id="IA_Benton"
+         d="M 258.962,265.12127 L 259.25459,291.41209 L 238.58303,291.54546 L 238.37357,265.41031 L 248.67702,265.34024 L 258.962,265.12127"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Iowa, IA"
+         id="IA_Iowa"
+         d="M 238.58303,291.54546 L 259.25459,291.41209 L 259.6031,312.46136 L 254.42111,312.5742 L 238.7679,312.78425 L 238.58303,291.54546"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Keokuk, IA"
+         id="IA_Keokuk"
+         d="M 238.7679,312.78425 L 254.42111,312.5742 L 254.64988,333.45277 L 244.18112,333.61956 L 233.87621,333.73592 L 233.66223,312.82999 L 238.7679,312.78425"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Washington, IA"
+         id="IA_Washington"
+         d="M 259.6031,312.46136 L 273.35857,312.30207 L 274.05707,313.36744 L 275.07444,317.51668 L 275.22159,333.25129 L 264.93464,333.38679 L 254.64988,333.45277 L 254.42111,312.5742 L 259.6031,312.46136"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Henry, IA"
+         id="IA_Henry"
+         d="M 275.22159,333.25129 L 280.46515,338.47643 L 279.00242,354.24779 L 265.08459,354.41116 L 265.03937,349.14324 L 264.93464,333.38679 L 275.22159,333.25129"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Lee, IA"
+         id="IA_Lee"
+         d="M 265.08459,354.41116 L 279.00242,354.24779 L 292.49536,361.01094 L 289.24269,364.58818 L 287.78265,364.57869 L 286.58959,364.62873 L 286.23241,364.63589 L 286.21388,364.6353 L 283.82548,365.38895 L 283.75932,365.42857 L 283.48582,365.57282 L 282.33527,366.18056 L 281.92899,366.41791 L 281.78517,366.56631 L 281.61327,366.72312 L 281.44048,366.90765 L 279.44858,369.76481 L 279.36496,370.20718 L 279.49718,370.71212 L 280.40493,371.17682 L 281.1205,372.28913 L 281.34739,373.02421 L 281.36522,373.62745 L 281.07345,378.9959 L 281.05376,379.03235 L 280.93053,379.5523 L 280.44082,379.93536 L 280.37479,379.97037 L 278.97914,380.41264 L 276.02657,380.10519 L 274.19023,378.52138 L 269.82077,372.78172 L 269.66732,372.35958 L 269.85423,371.15091 L 269.76027,370.75386 L 266.27553,367.94453 L 265.35415,367.32638 L 265.08459,354.41116"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Des Moines, IA"
+         id="IA_Des_Moines"
+         d="M 299.34241,338.20234 L 299.37937,338.3519 L 299.52952,338.8759 L 299.70505,340.49481 L 299.36932,345.35189 L 298.93299,347.11359 L 298.67095,347.48074 L 297.35546,348.17126 L 296.85876,348.62829 L 293.21273,353.49107 L 293.02134,354.25915 L 292.49536,361.01094 L 279.00242,354.24779 L 280.46515,338.47643 L 299.34241,338.20234"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Louisa, IA"
+         id="IA_Louisa"
+         d="M 275.07444,317.51668 L 280.2172,317.47208 L 280.27706,322.7173 L 293.19115,322.62853 L 293.19055,322.64704 L 291.75431,327.70548 L 291.7848,328.20251 L 291.80199,328.24477 L 294.71025,331.9768 L 296.11411,332.73089 L 296.71419,332.66658 L 297.07011,332.84481 L 297.43732,333.2506 L 299.43003,336.76335 L 299.34241,338.20234 L 280.46515,338.47643 L 275.22159,333.25129 L 275.07444,317.51668"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Muscatine, IA"
+         id="IA_Muscatine"
+         d="M 300.86903,306.61962 L 306.13589,315.18341 L 303.40269,315.11942 L 297.08668,316.62864 L 295.3908,317.18186 L 294.90389,317.47695 L 294.86148,317.49878 L 294.86087,317.51729 L 294.53176,317.95185 L 294.48639,318.06629 L 293.7844,320.59833 L 293.19115,322.62853 L 280.27706,322.7173 L 280.2172,317.47208 L 280.13599,306.93648 L 300.86903,306.61962"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Johnson, IA"
+         id="IA_Johnson"
+         d="M 279.88172,291.21699 L 280.13599,306.93648 L 280.2172,317.47208 L 275.07444,317.51668 L 274.05707,313.36744 L 273.35857,312.30207 L 259.6031,312.46136 L 259.25459,291.41209 L 279.88172,291.21699"
+         style="font-size:12px;fill:#4389e3;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Linn, IA"
+         id="IA_Linn"
+         d="M 279.56871,264.98579 L 279.80335,285.97118 L 279.88172,291.21699 L 259.25459,291.41209 L 258.962,265.12127 L 269.28533,265.15384 L 279.56871,264.98579"
+         style="font-size:12px;fill:#86b6f2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Cedar, IA"
+         id="IA_Cedar"
+         d="M 300.47633,285.64774 L 300.70717,296.14173 L 300.86903,306.61962 L 280.13599,306.93648 L 279.80335,285.97118 L 300.47633,285.64774"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Jones, IA"
+         id="IA_Jones"
+         d="M 289.83311,264.83103 L 300.0334,264.65109 L 300.3755,280.37802 L 300.47633,285.64774 L 279.80335,285.97118 L 279.56871,264.98579 L 289.83311,264.83103"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Buchanan, IA"
+         id="IA_Buchanan"
+         d="M 268.52799,244.27696 L 268.5078,248.83351 L 268.6105,254.77086 L 269.18236,260.53309 L 269.28533,265.15384 L 258.962,265.12127 L 248.67702,265.34024 L 248.6266,256.45605 L 247.8494,255.09613 L 247.73388,244.61969 L 268.52799,244.27696"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Fayette, IA"
+         id="IA_Fayette"
+         d="M 247.50215,218.16392 L 268.2448,217.9818 L 268.52799,244.27696 L 247.73388,244.61969 L 247.58754,228.71356 L 247.50215,218.16392"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Winneshiek, IA"
+         id="IA_Winneshiek"
+         d="M 267.62322,192.84878 L 267.75557,202.36145 L 268.07124,202.34834 L 268.2448,217.9818 L 247.50215,218.16392 L 247.46424,210.34182 L 247.32416,193.07751 L 262.4612,192.91592 L 267.62322,192.84878"
+         style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Allamakee, IA"
+         id="IA_Allamakee"
+         d="M 284.63675,192.57551 L 285.23991,197.2122 L 285.1003,200.28144 L 289.63221,203.68972 L 290.59658,204.99538 L 291.84001,207.14445 L 291.64952,207.88474 L 288.1358,213.39615 L 286.86065,217.76429 L 268.2448,217.9818 L 268.07124,202.34834 L 267.75557,202.36145 L 267.62322,192.84878 L 284.63675,192.57551"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Clayton, IA"
+         id="IA_Clayton"
+         d="M 286.86065,217.76429 L 287.6058,223.47179 L 288.43732,228.06942 L 292.14242,237.05164 L 292.6484,238.19433 L 296.0982,240.64554 L 297.29374,241.24462 L 299.57342,241.86441 L 289.29337,243.81739 L 268.52799,244.27696 L 268.2448,217.9818 L 286.86065,217.76429"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Delaware, IA"
+         id="IA_Delaware"
+         d="M 268.52799,244.27696 L 289.29337,243.81739 L 289.83311,264.83103 L 279.56871,264.98579 L 269.28533,265.15384 L 269.18236,260.53309 L 268.6105,254.77086 L 268.5078,248.83351 L 268.52799,244.27696"
+         style="font-size:12px;fill:#cb2e49;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Dubuque, IA"
+         id="IA_Dubuque"
+         d="M 289.29337,243.81739 L 299.57342,241.86441 L 305.19365,243.12848 L 307.36756,243.72169 L 307.85988,243.98311 L 308.16479,244.30806 L 310.78239,249.44943 L 311.2114,250.96981 L 311.22839,251.30878 L 311.05252,251.59062 L 310.40781,252.61779 L 310.38483,252.75613 L 310.4159,253.09091 L 310.50819,253.39521 L 310.85297,253.77707 L 311.84851,254.54132 L 314.75004,256.15911 L 318.41807,258.89079 L 318.436,258.90993 L 318.54376,259.01998 L 310.17966,259.18898 L 310.28524,264.45423 L 300.0334,264.65109 L 289.83311,264.83103 L 289.29337,243.81739"
+         style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+      <path
+         inkscape:label="Jackson, IA"
+         id="IA_Jackson"
+         d="M 318.54376,259.01998 L 321.07265,262.14653 L 321.19148,262.345 L 321.2074,262.57268 L 320.90339,264.25514 L 320.63542,264.80754 L 320.62333,265.1873 L 321.19077,266.58229 L 321.22111,266.64817 L 322.42625,268.25357 L 322.46678,268.29192 L 323.20231,268.92274 L 323.9961,269.47191 L 325.81595,270.11873 L 333.24294,279.56272 L 300.3755,280.37802 L 300.0334,264.65109 L 310.28524,264.45423 L 310.17966,259.18898 L 318.54376,259.01998"
+         style="font-size:12px;fill:#e17e8f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.3184756" />
+    </g>
+  </g>
+</svg>
