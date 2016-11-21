@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="220.67281"
+   height="183.37852"
+   id="svg7979"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   version="1.0"
+   sodipodi:docname="Wyoming_Presidential_Election_Results_2016.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs7981">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15484"
+       id="linearGradient13446"
+       x1="159.86897"
+       y1="28.237499"
+       x2="167.30098"
+       y2="28.237499"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4407446,0,0,1.4407446,204.36986,253.76349)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15484"
+       id="linearGradient13456"
+       x1="156.66498"
+       y1="66.892502"
+       x2="168.22098"
+       y2="66.892502"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4407446,0,0,1.4407446,204.36986,253.76349)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15484"
+       id="linearGradient13448"
+       x1="158.97198"
+       y1="38.004002"
+       x2="176.01398"
+       y2="38.004002"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4407446,0,0,1.4407446,204.36986,253.76349)" />
+    <linearGradient
+       id="linearGradient15484">
+      <stop
+         id="stop15486"
+         offset="0"
+         style="stop-color:#ffff00;stop-opacity:1;" />
+      <stop
+         id="stop15488"
+         offset="1"
+         style="stop-color:#008000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15484"
+       id="linearGradient13458"
+       x1="187.75497"
+       y1="48.445"
+       x2="204.51198"
+       y2="48.445"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4407446,0,0,1.4407446,204.36986,253.76349)" />
+    <linearGradient
+       id="linearGradient13460">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop13462" />
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="1"
+         id="stop13464" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13460"
+       id="linearGradient13466"
+       x1="193.63197"
+       y1="35.912498"
+       x2="208.81598"
+       y2="35.912498"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4407446,0,0,1.4407446,204.36986,253.76349)" />
+    <linearGradient
+       id="linearGradient9227">
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="0"
+         id="stop9229" />
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="1"
+         id="stop9231" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9227"
+       id="linearGradient13474"
+       x1="202.68698"
+       y1="46.419498"
+       x2="213.44897"
+       y2="46.419498"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4407446,0,0,1.4407446,204.36986,253.76349)" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective7987" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5426626"
+     inkscape:cx="47.903317"
+     inkscape:cy="90.113691"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7984">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-288.41753,-334.43321)">
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 465.78405,477.78121 L 483.45891,477.44999 L 483.56196,480.81432 L 500.5531,480.28407 L 500.80224,486.82935 L 501.32586,501.81463 L 475.93104,502.74289 L 466.41116,502.97662 L 465.78405,477.78121"
+       id="WY_Laramie"
+       inkscape:label="Laramie, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 499.10229,440.24973 L 499.95456,463.55856 L 500.36237,475.17213 L 500.5531,480.28407 L 483.56196,480.81432 L 483.45891,477.44999 L 482.29695,440.89105 L 487.08428,440.73076 L 493.83241,440.42414 L 499.10229,440.24973"
+       id="WY_Goshen"
+       inkscape:label="Goshen, WY" />
+    <path
+       style="font-size:12px;fill:#4389e3;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 306.75333,361.79706 L 317.22482,362.15747 L 317.13058,365.34086 L 325.04738,365.5812 L 326.95725,366.84886 L 327.29218,367.20907 L 327.6411,368.19726 L 327.5884,368.74122 L 327.9936,372.31833 L 329.41947,375.64065 L 331.67754,380.35867 L 333.30957,382.98176 L 332.66937,408.45598 L 332.43159,411.77861 L 324.51588,411.54704 L 324.42449,414.85189 L 317.95434,414.63465 L 317.86834,416.78645 L 311.37477,416.5721 L 311.45302,414.11232 L 308.33674,413.38042 L 305.12291,413.26329 L 305.97598,387.80474 L 306.65122,369.11864 L 306.75333,361.79706"
+       id="WY_Teton"
+       inkscape:label="Teton, WY" />
+    <path
+       style="font-size:12px;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 305.12291,413.26329 L 308.33674,413.38042 L 311.45302,414.11232 L 311.37477,416.5721 L 317.86834,416.78645 L 317.74775,420.9502 L 317.05225,434.19183 L 316.90716,436.83495 L 316.5812,446.8359 L 317.73011,453.40249 L 324.13641,453.68093 L 331.38841,454.07338 L 331.23375,459.64309 L 331.29023,465.28813 L 330.83611,480.5883 L 302.58078,479.58933 L 303.17674,463.45219 L 303.92261,443.90508 L 304.71351,424.55744 L 305.12291,413.26329"
+       id="WY_Lincoln"
+       inkscape:label="Lincoln, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 302.58078,479.58933 L 330.83611,480.5883 L 330.2257,502.78896 L 317.31044,502.51181 L 301.73971,501.84771 L 302.11299,492.13799 L 302.58078,479.58933"
+       id="WY_Uinta"
+       inkscape:label="Uinta, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 332.66937,408.45598 L 340.84284,408.73045 L 342.42706,412.4998 L 342.98518,414.67136 L 342.98377,414.9774 L 342.75047,415.91755 L 342.67383,416.72878 L 342.80402,418.23952 L 343.34088,419.67411 L 346.04576,426.06337 L 352.39787,432.05376 L 357.51382,436.79557 L 359.13833,438.50183 L 359.78629,448.44977 L 359.67824,454.94044 L 346.87619,454.71489 L 339.87096,454.47066 L 331.38841,454.07338 L 324.13641,453.68093 L 317.73011,453.40249 L 316.5812,446.8359 L 316.90716,436.83495 L 317.05225,434.19183 L 317.74775,420.9502 L 317.86834,416.78645 L 317.95434,414.63465 L 324.42449,414.85189 L 324.51588,411.54704 L 332.43159,411.77861 L 332.66937,408.45598"
+       id="WY_Sublette"
+       inkscape:label="Sublette, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 341.06138,350.04952 L 355.3183,350.24371 L 360.33704,350.54535 L 360.88499,350.55595 L 364.44107,350.60474 L 372.76701,350.69136 L 372.73348,355.59593 L 373.48038,356.68126 L 373.55164,364.86678 L 373.85081,368.96465 L 373.68945,382.39676 L 374.31679,382.40067 L 374.27777,385.79418 L 367.69011,385.71003 L 364.25452,389.04722 L 364.29019,392.32176 L 359.36937,392.26366 L 359.32426,395.63116 L 354.38555,395.54852 L 353.26962,395.63073 L 353.03901,395.02912 L 350.59516,391.91076 L 349.0503,390.76209 L 348.51656,390.45274 L 347.1077,389.86075 L 346.8278,389.87993 L 344.358,391.26423 L 344.00224,391.85694 L 343.47086,393.32636 L 338.55493,394.40814 L 335.35532,389.78972 L 333.18949,387.73644 L 333.30957,382.98176 L 331.67754,380.35867 L 329.41947,375.64065 L 327.9936,372.31833 L 327.5884,368.74122 L 327.6411,368.19726 L 327.29218,367.20907 L 326.95725,366.84886 L 325.04738,365.5812 L 317.13058,365.34086 L 317.22482,362.15747 L 306.75333,361.79706 L 307.53274,349.05013 L 312.06334,349.19727 L 315.42955,349.46815 L 316.63727,349.72523 L 320.68541,349.8627 L 320.75417,349.86622 L 329.67257,349.98777 L 332.67025,349.76883 L 334.93136,349.8444 L 341.06138,350.04952"
+       id="WY_Park"
+       inkscape:label="Park, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 331.38841,454.07338 L 339.87096,454.47066 L 346.87619,454.71489 L 359.67824,454.94044 L 402.32261,455.36319 L 402.49954,459.79962 L 402.85228,462.0169 L 402.80738,475.30713 L 402.6868,478.49372 L 390.80798,478.38465 L 390.89505,485.03873 L 391.12476,488.36984 L 391.01561,503.55087 L 381.53712,503.56274 L 358.72715,503.27092 L 354.22531,503.16484 L 340.84651,503.00942 L 339.72946,502.98485 L 335.73049,502.90972 L 331.61123,502.82248 L 331.58195,502.82604 L 330.2257,502.78896 L 330.83611,480.5883 L 331.29023,465.28813 L 331.23375,459.64309 L 331.38841,454.07338"
+       id="WY_Sweetwater"
+       inkscape:label="Sweetwater, WY" />
+    <path
+       style="font-size:12px;fill:#cc2f4a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 400.35536,408.00228 L 402.00144,408.00412 L 402.4981,409.10798 L 402.53493,415.69095 L 402.50265,422.26746 L 402.90501,422.91353 L 402.92394,435.50695 L 402.15974,439.92417 L 401.78761,448.76356 L 402.32276,448.76681 L 402.32261,455.36319 L 359.67824,454.94044 L 359.78629,448.44977 L 359.13833,438.50183 L 357.51382,436.79557 L 352.39787,432.05376 L 346.04576,426.06337 L 343.34088,419.67411 L 342.80402,418.23952 L 342.67383,416.72878 L 342.75047,415.91755 L 342.98377,414.9774 L 342.98518,414.67136 L 342.42706,412.4998 L 340.84284,408.73045 L 332.66937,408.45598 L 333.18949,387.73644 L 335.35532,389.78972 L 338.55493,394.40814 L 343.47086,393.32636 L 344.00224,391.85694 L 344.358,391.26423 L 346.8278,389.87993 L 347.1077,389.86075 L 348.51656,390.45274 L 349.0503,390.76209 L 350.59516,391.91076 L 353.03901,395.02912 L 353.26962,395.63073 L 355.36639,397.55578 L 357.07526,400.05367 L 357.02196,402.8163 L 360.42599,403.15387 L 363.53796,403.21507 L 366.8373,403.79107 L 369.00707,405.11919 L 370.0752,406.62282 L 373.33089,407.76843 L 379.87384,409.48854 L 382.28653,409.51598 L 384.01464,409.38606 L 384.89124,409.1191 L 400.34206,409.11469 L 400.35536,408.00228"
+       id="WY_Fremont"
+       inkscape:label="Fremont, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 374.27777,385.79418 L 375.93521,385.79166 L 377.61662,389.16312 L 377.52022,392.54873 L 380.78628,394.73257 L 384.46648,395.82659 L 388.79628,395.86149 L 390.45037,397.90868 L 391.10686,399.12974 L 397.04108,399.14183 L 400.35188,402.47558 L 400.35536,408.00228 L 400.34206,409.11469 L 384.89124,409.1191 L 384.01464,409.38606 L 382.28653,409.51598 L 379.87384,409.48854 L 373.33089,407.76843 L 370.0752,406.62282 L 369.00707,405.11919 L 366.8373,403.79107 L 363.53796,403.21507 L 360.42599,403.15387 L 357.02196,402.8163 L 357.07526,400.05367 L 355.36639,397.55578 L 353.26962,395.63073 L 354.38555,395.54852 L 359.32426,395.63116 L 359.36937,392.26366 L 364.29019,392.32176 L 364.25452,389.04722 L 367.69011,385.71003 L 374.27777,385.79418"
+       id="WY_Hot_Springs"
+       inkscape:label="Hot Springs, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 374.27777,385.79418 L 374.31679,382.40067 L 406.35468,382.57445 L 412.60222,382.64651 L 413.09752,382.63975 L 413.17975,395.97393 L 413.68007,408.03067 L 402.00144,408.00412 L 400.35536,408.00228 L 400.35188,402.47558 L 397.04108,399.14183 L 391.10686,399.12974 L 390.45037,397.90868 L 388.79628,395.86149 L 384.46648,395.82659 L 380.78628,394.73257 L 377.52022,392.54873 L 377.61662,389.16312 L 375.93521,385.79166 L 374.27777,385.79418"
+       id="WY_Washakie"
+       inkscape:label="Washakie, WY" />
+    <path
+       style="font-size:12px;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 372.76701,350.69136 L 382.78639,350.82756 L 391.9042,350.82982 L 392.48559,351.21355 L 392.68537,351.41496 L 393.50828,354.56706 L 394.51814,358.89037 L 396.61582,361.72709 L 397.99547,362.61667 L 398.7503,362.88724 L 399.2033,362.63021 L 399.93645,362.3807 L 401.51091,363.11293 L 406.02023,366.28612 L 406.32781,366.83676 L 406.50649,367.64666 L 410.99979,371.98304 L 411.92677,374.10971 L 412.63157,376.60792 L 412.60222,382.64651 L 406.35468,382.57445 L 374.31679,382.40067 L 373.68945,382.39676 L 373.85081,368.96465 L 373.55164,364.86678 L 373.48038,356.68126 L 372.73348,355.59593 L 372.76701,350.69136"
+       id="WY_Big_Horn"
+       inkscape:label="Big Horn, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 436.27444,350.90906 L 442.70177,350.82264 L 442.82789,355.57413 L 443.12121,360.08849 L 443.31277,364.52316 L 443.36414,367.16914 L 438.76839,367.24377 L 432.00381,367.43951 L 432.0084,367.59935 L 406.50649,367.64666 L 406.32781,366.83676 L 406.02023,366.28612 L 401.51091,363.11293 L 399.93645,362.3807 L 399.2033,362.63021 L 398.7503,362.88724 L 397.99547,362.61667 L 396.61582,361.72709 L 394.51814,358.89037 L 393.50828,354.56706 L 392.68537,351.41496 L 392.48559,351.21355 L 391.9042,350.82982 L 400.05913,350.85411 L 412.82349,350.86742 L 414.26982,350.9856 L 419.43922,350.98677 L 436.27444,350.90906"
+       id="WY_Sheridan"
+       inkscape:label="Sheridan, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 412.60222,382.64651 L 412.63157,376.60792 L 411.92677,374.10971 L 410.99979,371.98304 L 406.50649,367.64666 L 432.0084,367.59935 L 432.00381,367.43951 L 438.76839,367.24377 L 443.36414,367.16914 L 443.27746,370.39022 L 443.28984,374.37742 L 443.40966,381.61854 L 443.46799,382.00053 L 443.55624,382.18877 L 443.65644,385.30993 L 443.79037,393.35124 L 443.59437,395.47783 L 443.67415,402.97626 L 443.79484,407.92741 L 442.12775,407.97269 L 428.10149,408.2583 L 413.67724,408.32502 L 413.68007,408.03067 L 413.17975,395.97393 L 413.09752,382.63975 L 412.60222,382.64651"
+       id="WY_Johnson"
+       inkscape:label="Johnson, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 402.00144,408.00412 L 413.68007,408.03067 L 413.67724,408.32502 L 428.10149,408.2583 L 442.12775,407.97269 L 442.26401,409.53318 L 442.40397,417.30647 L 442.52427,427.09279 L 442.63906,438.49551 L 442.79991,448.51748 L 426.60234,448.78199 L 418.17813,448.76666 L 402.32276,448.76681 L 401.78761,448.76356 L 402.15974,439.92417 L 402.92394,435.50695 L 402.90501,422.91353 L 402.50265,422.26746 L 402.53493,415.69095 L 402.4981,409.10798 L 402.00144,408.00412"
+       id="WY_Natrona"
+       inkscape:label="Natrona, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 402.32276,448.76681 L 418.17813,448.76666 L 426.60234,448.78199 L 442.79991,448.51748 L 442.8643,448.50965 L 443.22833,472.22533 L 443.47227,484.91022 L 443.59667,488.23036 L 439.63147,488.33528 L 436.37594,488.31526 L 436.48935,498.72914 L 436.61255,503.48099 L 421.31025,503.48515 L 408.16451,503.53602 L 391.01561,503.55087 L 391.12476,488.36984 L 390.89505,485.03873 L 390.80798,478.38465 L 402.6868,478.49372 L 402.80738,475.30713 L 402.85228,462.0169 L 402.49954,459.79962 L 402.32261,455.36319 L 402.32276,448.76681"
+       id="WY_Carbon"
+       inkscape:label="Carbon, WY" />
+    <path
+       style="font-size:12px;fill:#f2b3be;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 442.8643,448.50965 L 457.33456,448.35718 L 457.33834,449.29223 L 456.82094,450.41246 L 455.72643,450.42674 L 455.80948,453.2114 L 456.21539,453.47093 L 459.00084,453.7055 L 462.4985,453.61586 L 462.87251,451.95175 L 462.80714,450.31432 L 463.06255,449.21406 L 463.56933,448.20205 L 464.94197,448.15398 L 465.53052,461.25433 L 465.68715,465.74373 L 465.8976,474.51228 L 465.78405,477.78121 L 466.41116,502.97662 L 440.3338,503.47109 L 436.61255,503.48099 L 436.48935,498.72914 L 436.37594,488.31526 L 439.63147,488.33528 L 443.59667,488.23036 L 443.47227,484.91022 L 443.22833,472.22533 L 442.8643,448.50965"
+       id="WY_Albany"
+       inkscape:label="Albany, WY" />
+    <path
+       style="font-size:12px;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 468.95997,381.43168 L 487.45593,380.69471 L 496.88603,380.40657 L 496.93654,381.89727 L 497.31808,392.85473 L 497.81719,406.22139 L 474.55737,407.09204 L 469.61123,407.26569 L 468.95997,381.43168"
+       id="WY_Weston"
+       inkscape:label="Weston, WY" />
+    <path
+       style="font-size:12px;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 467.88971,350.0502 L 469.26413,350.01676 L 495.67802,349.30911 L 496.88603,380.40657 L 487.45593,380.69471 L 468.95997,381.43168 L 468.87915,381.42667 L 468.78379,379.88496 L 468.22544,359.31138 L 468.00042,354.60162 L 467.88971,350.0502"
+       id="WY_Crook"
+       inkscape:label="Crook, WY" />
+    <path
+       style="font-size:12px;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 442.70177,350.82264 L 445.55752,350.60908 L 447.47031,350.48346 L 467.88971,350.0502 L 468.00042,354.60162 L 468.22544,359.31138 L 468.78379,379.88496 L 468.87915,381.42667 L 468.95997,381.43168 L 469.61123,407.26569 L 443.79484,407.92741 L 443.67415,402.97626 L 443.59437,395.47783 L 443.79037,393.35124 L 443.65644,385.30993 L 443.55624,382.18877 L 443.46799,382.00053 L 443.40966,381.61854 L 443.28984,374.37742 L 443.27746,370.39022 L 443.36414,367.16914 L 443.31277,364.52316 L 443.12121,360.08849 L 442.82789,355.57413 L 442.70177,350.82264"
+       id="WY_Campbell"
+       inkscape:label="Campbell, WY" />
+    <path
+       style="font-size:12px;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 443.79484,407.92741 L 469.61123,407.26569 L 474.55737,407.09204 L 474.7602,412.62125 L 475.23443,430.18156 L 475.48587,434.4486 L 475.69475,441.10272 L 470.04923,441.26636 L 464.70965,441.5027 L 464.94197,448.15398 L 463.56933,448.20205 L 463.06255,449.21406 L 462.80714,450.31432 L 462.87251,451.95175 L 462.4985,453.61586 L 459.00084,453.7055 L 456.21539,453.47093 L 455.80948,453.2114 L 455.72643,450.42674 L 456.82094,450.41246 L 457.33834,449.29223 L 457.33456,448.35718 L 442.8643,448.50965 L 442.79991,448.51748 L 442.63906,438.49551 L 442.52427,427.09279 L 442.40397,417.30647 L 442.26401,409.53318 L 442.12775,407.97269 L 443.79484,407.92741"
+       id="WY_Converse"
+       inkscape:label="Converse, WY" />
+    <path
+       style="font-size:12px;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 497.81719,406.22139 L 498.55554,425.39198 L 499.10229,440.24973 L 493.83241,440.42414 L 487.08428,440.73076 L 482.29695,440.89105 L 475.69475,441.10272 L 475.48587,434.4486 L 475.23443,430.18156 L 474.7602,412.62125 L 474.55737,407.09204 L 497.81719,406.22139"
+       id="WY_Niobrara"
+       inkscape:label="Niobrara, WY" />
+    <path
+       style="font-size:12px;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.45604253;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 475.69475,441.10272 L 482.29695,440.89105 L 483.45891,477.44999 L 465.78405,477.78121 L 465.8976,474.51228 L 465.68715,465.74373 L 465.53052,461.25433 L 464.94197,448.15398 L 464.70965,441.5027 L 470.04923,441.26636 L 475.69475,441.10272"
+       id="WY_Platte"
+       inkscape:label="Platte, WY" />
+  </g>
+</svg>

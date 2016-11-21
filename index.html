@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Home</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<title>Election and Data Science</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
+
+
+
 
   <link rel="stylesheet" type="text/css"
           href="https://fonts.googleapis.com/css?family=Open+Sans">
@@ -13,11 +20,12 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    font-size: 14px;
 }
 
   <style>
 
+  
   .top {
     height: 25px;
     /* size of the top of the page */
@@ -29,7 +37,7 @@ body {
 
   .background {
     overflow: auto; /* allows image to stay still while scrolling */
-    background-image: url(http://www.todayifoundout.com/wp-content/uploads/2013/03/democrat-republican-party.jpg);
+    background-image: url(http://www.gannett-cdn.com/-mm-/973245c937f8d339e768df582293347ac6c21ccc/c=0-47-4093-2359&r=x1683&c=3200x1680/local/-/media/2016/01/28/USATODAY/USATODAY/635896143821845095-EPA-USA-ELECTIONS-DONALD-TRUMP.jpg);
     background-size: 110vw; /* size of background is 100% of the Variable Width */
     background-attachment: scroll;
     height: 100vh; /* height is 100% of the Variable Height */
@@ -39,80 +47,139 @@ body {
     height: 20px;
   } /*Gap between different sections*/
 
-  .white-container {
-      background-color: rgba(255, 255, 255, 0.60); /* white background with 60% opacity */
-      color: rgba(0, 0, 0, 1); /* black text color, 100% opacity*/
-      width: 80%; /* container is 80% as wide as the total width */
+    .white-container {
+      background-color: #222222; /* white background with 60% opacity */
+      color: white; /* black text color, 100% opacity*/
+      width: 100%; /* container is 80% as wide as the total width */
 /*      font-weight: 600  thicker font weight, pretty sure max is 900 ;
       font-size: 125%;*/
       /*box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5); /* black shadow with 50% opacity */*/
   }
 
-  .navbar {
-    background-color: inherit; /* inherits from white-container*/
-    border: none;
-    overflow: auto;
-    /*position: fixed;*/
-    width: 100%;
-  }
+  .active a {
+    background-color: #123C62 !important;
+}
+
+* {
+  border-radius: 0 !important;
+}
+
+
+.dropdown-menu {
+  box-shadow: none;
+  
+}
+
+.dropdown-menu>li>a {
+    color: white;
+}
+
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    background-color: #123C62;
+    color: white;
+}
+
+.navbar-nav > li > .dropdown-menu { 
+    background-color: #222222; 
+}
 
 
 </style>
 </head>
  <div class="background">
-   <div class="gap" ></div>
-    <nav class="navbar navbar-default">
+   <!-- <div class="gap" ></div> -->
+    <nav class="navbar navbar-inverse" role="navigation">
       <div class="container-fluid white-container text-center">
         <ul class="nav navbar-nav">
-            <li><a href="index.html">Home</a></li>
-            <li class="active"><a href="data.html">Data</a></li>
-            <li><a href="sources.html">Sources</a></li>
-            <li><a href="table.html">Table</a></li>
-            <li><a href="contributors.html">Contributors</a></li>
+            <li class="active"><a href="index.html">Home</a></li>
+            <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+            <li><a href="data_2000.html">2000 Data</a>
+            <li><a href="data_2004.html">2004 Data</a>
+            <li><a href="data_2008.html">2008 Data</a>
+            <li><a href="data_2012.html">2012 Data</a>
+            <li><a href="data_2016.html">2016 Data</a>
+             
+            </ul>
+        </li>
+            <li><a href="Twitter_analysis.html">Twitter Analysis</a></li>
+            <li><a href="speech_analysis.html">Speech</a></li>
+
+
+            
+           
         </ul>
+
       </div>
+
     </nav>
 
-      <div class="gap" ></div>
-      <div class="gap" ></div>
-      <div class="gap" ></div>
 
-  <div class="container-fluid white-container text-center">
-    <h3>What are we doing?</h3>
-      <p>We are a group of CS students at the University at Buffalo and we will be using our data visualization techniques to help understand the flows of 2016 United States Presidential Election</p>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+    
+
+      <div class="gap" ></div>
+   
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+        <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+        <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      
+      
+       <div class="gap" ></div>
+      
+ 
+ 
+     <div class="container-fluid white-container text-center">
+    <span style="font-size: 65px !important; color: #white;">Election and Data Science</span>
+      
     </div>
 
+    
+
+
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+       <div class="gap" ></div>
+
+ 
   <div class="gap" ></div>
 
-    <!-- Donald Trump -->
 
-  <!-- <div class="container-fluid white-container text-center">
-    <h3>Who do we think will win?</h3>
-      <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" class="img-circle" width="350" height="350">
-        <p>Donald Trump</p>
-        <p>Donald John Trump (born June 14, 1946) is an American businessman, television personality, author, politician, and the Republican Party nominee for President of the United States in the 2016 election. He is chairman of The Trump Organization, which is the principal holding company for his real estate ventures and other business interests.</p>
-        <p>Born and raised in New York City, Trump received a bachelor's degree in economics from the Wharton School of the University of Pennsylvania in 1968. While attending college, Trump worked in his father Fred Trump's real estate and construction firm. He was given control of the business in 1971 and later renamed it "The Trump Organization". During his career, Trump has built skyscrapers, hotels, casinos, golf courses, and numerous other developments across North and South America, Europe and Asia, many of which bear his name, such as the Trump Place apartment complex in Manhattan. He sought the Reform Party presidential nomination in 2000, but withdrew before voting began. Listed by the World's Billionaires, Trump and his businesses, as well as his personal life and political views, have for decades received considerable media exposure. He hosted and co-produced The Apprentice, a reality television series on NBC, from 2004 to 2015, for which he received a star on the Hollywood Walk of Fame. He has also made numerous cameo appearances in films and television series, and appeared at the Miss USA pageants which he owned from 1996 to 2015.</p>
-        <p>In June 2015, Trump announced his candidacy for president as a Republican and quickly emerged as the front-runner for his party's nomination. In May 2016, his remaining Republican rivals suspended their campaigns, and in July he was formally nominated for president at the 2016 Republican National Convention.</p>
-        <p>Trump's 2016 presidential campaign has received extensive media coverage and international attention. Many of his statements in interviews, on Twitter, and at campaign rallies have been controversial. Several rallies have been accompanied by protests or riots</a>. Trump's positions include renegotiation of U.S.–China trade deals, opposition to particular trade agreements such as the TPP, stronger enforcement of immigration laws together with building a wall along the U.S.–Mexico border, reform of veterans' care, replacement of the Affordable Care Act, and tax cuts. Trump has suggested temporarily banning foreign Muslims from entering the United States, which he later said would focus instead on countries with a proven history of terrorism, until the level of vetting can be raised to screen out potential terrorists.</p>
-      </div> -->
+    <div class = text-center>
 
-
-
-    <!-- Clinton -->
-
-    <div class="container-fluid white-container text-center">
-      <h3>Who do we think will win?</h3>
-        <img src="http://i.imgur.com/lZ0bxod.gif" class="img-circle" width="350" height="350">
-          <p>Hillary Clinton</p>
+      
+        
         </div>
 
-    <div class="container-fluid white-container text-center">
-
-      <h3></h3>
-        <img src="http://i.imgur.com/BZuvhmx.jpg" class="img-circle" width="350" height="350">
-          <p>Donald Trump</p>
-        </div>
-    <div class="bottom" ></div>
   </div>
 </body>
 </html>
