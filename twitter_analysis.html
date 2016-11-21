@@ -2,10 +2,12 @@
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Twitter Analysis</title>
     
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./twitter_analysis_files/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
-<link rel="stylesheet" type="text/css" href="./twitter_analysis_files/css">
 
 <style>
 
@@ -43,6 +45,24 @@ body {
   border-radius: 0 !important;
 }
 
+.dropdown-menu {
+  box-shadow: none;
+  
+}
+
+.dropdown-menu>li>a {
+    color: white;
+}
+
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    background-color: #123C62;
+    color: white;
+}
+
+.navbar-nav > li > .dropdown-menu { 
+    background-color: #222222; 
+}
 
     </style>
 </head>
@@ -52,12 +72,23 @@ body {
         <div class="container-fluid white-container text-center">
             <ul class="nav navbar-nav">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="data.html">Data</a></li>
-                <li><a href="sources.html">Sources</a></li>
-                <li><a href="poll_table.html">Table</a></li>
+                
+                <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+            <li><a href="data_2000.html">2000 Data</a>
+            <li><a href="data_2004.html">2004 Data</a>
+            <li><a href="data_2008.html">2008 Data</a>
+            <li><a href="data_2012.html">2012 Data</a>
+            <li><a href="data_2016.html">2016 Data</a>
+             
+            </ul>
+        </li>
+                
+                
                 <li class="active"><a href="twitter_analysis.html">Twitter Analysis</a></li>
                 <li><a href="speech_analysis.html">Speech</a></li>
-                <li><a href="contributors.html">Contributors</a></li>
+                
 
             </ul>
         </div>
@@ -82,7 +113,7 @@ body {
         <br>
         <br>
         <p> </p><h2>On Zooming into the graph: </h2>
-        <img src="./Twitter Analysis_files/Donald_sensitivity_zoom.png" alt="Donald_sensitivity_zoom" style="width:1000px;height:700px;"><p></p>
+        <img src="./twitter_analysis_files/Donald_sensitivity_zoom.png" alt="Donald_sensitivity_zoom" style="width:1000px;height:700px;"><p></p>
 
         <h1></h1>
     </div>

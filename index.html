@@ -1,12 +1,20 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en">
+<head>
+<title>Election and Data Science</title>
 
-<title>Home</title>
-    
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="./index_files/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="./index_files/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
+
+
+
+
+  <link rel="stylesheet" type="text/css"
+          href="https://fonts.googleapis.com/css?family=Open+Sans">
 
 <style>
 
@@ -15,28 +23,40 @@ body {
     font-size: 14px;
 }
 
-<style>
+  <style>
 
-.top {
+  
+  .top {
     height: 25px;
-}
+    /* size of the top of the page */
+  }
 
-.bottom {
+  .bottom {
     height: 100px;
-}
+  }/* size of the bottom of the page */
 
-.background {
+  .background {
     overflow: auto; /* allows image to stay still while scrolling */
+    background-image: url(http://www.gannett-cdn.com/-mm-/973245c937f8d339e768df582293347ac6c21ccc/c=0-47-4093-2359&r=x1683&c=3200x1680/local/-/media/2016/01/28/USATODAY/USATODAY/635896143821845095-EPA-USA-ELECTIONS-DONALD-TRUMP.jpg);
     background-size: 110vw; /* size of background is 100% of the Variable Width */
     background-attachment: scroll;
     height: 100vh; /* height is 100% of the Variable Height */
-}
+  }
 
-.gap {
+  .gap {
     height: 20px;
-} 
+  } /*Gap between different sections*/
 
-.active a {
+    .white-container {
+      background-color: #222222; /* white background with 60% opacity */
+      color: white; /* black text color, 100% opacity*/
+      width: 100%; /* container is 80% as wide as the total width */
+/*      font-weight: 600  thicker font weight, pretty sure max is 900 ;
+      font-size: 125%;*/
+      /*box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5); /* black shadow with 50% opacity */*/
+  }
+
+  .active a {
     background-color: #123C62 !important;
 }
 
@@ -44,35 +64,122 @@ body {
   border-radius: 0 !important;
 }
 
+
+.dropdown-menu {
+  box-shadow: none;
+  
+}
+
+.dropdown-menu>li>a {
+    color: white;
+}
+
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    background-color: #123C62;
+    color: white;
+}
+
+.navbar-nav > li > .dropdown-menu { 
+    background-color: #222222; 
+}
+
+
 </style>
 </head>
-
-<body>
-
-<div class="background">
-    
+ <div class="background">
+   <!-- <div class="gap" ></div> -->
     <nav class="navbar navbar-inverse" role="navigation">
-        <div class="container-fluid white-container text-center">
-            <ul class="nav navbar-nav">
-                <li class="active"><a href="index.html">Home</a></li>
-                <li><a href="data.html">Data</a></li>
-                <li><a href="sources.html">Sources</a></li>
-                <li><a href="poll_table.html">Table</a></li>
-                <li><a href="Twitter_analysis.html">Twitter Analysis</a></li>
-                <li><a href="speech_analysis.html">Speech</a></li>
-                <li><a href="contributors.html">Contributors</a></li>
+      <div class="container-fluid white-container text-center">
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+            <li><a href="data_2000.html">2000 Data</a>
+            <li><a href="data_2004.html">2004 Data</a>
+            <li><a href="data_2008.html">2008 Data</a>
+            <li><a href="data_2012.html">2012 Data</a>
+            <li><a href="data_2016.html">2016 Data</a>
+             
             </ul>
-        </div>
+        </li>
+            <li><a href="Twitter_analysis.html">Twitter Analysis</a></li>
+            <li><a href="speech_analysis.html">Speech</a></li>
+
+
+            
+           
+        </ul>
+
+      </div>
+
     </nav>
 
-    <div class="gap"></div>
 
-    <div class="container-fluid white-container text-center">
-        <h3>What are we doing?</h3>
-        <p>We are a group of CS students at the University at Buffalo and we will be using our data visualization techniques to help understand the flows of 2016 United States Presidential Election</p>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+    
+
+      <div class="gap" ></div>
+   
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+        <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+        <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      
+      
+       <div class="gap" ></div>
+      
+ 
+ 
+     <div class="container-fluid white-container text-center">
+    <span style="font-size: 65px !important; color: #white;">Election and Data Science</span>
+      
     </div>
 
-</div>
+    
 
+
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+      <div class="gap" ></div>
+       <div class="gap" ></div>
+
+ 
+  <div class="gap" ></div>
+
+
+    <div class = text-center>
+
+      
+        
+        </div>
+
+  </div>
 </body>
 </html>
