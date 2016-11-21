@@ -1,0 +1,16 @@
+date: November 4, 2016
+meeting_type: group
+attendance: [bamichae, lethiraj, skim43, sjmarcy]
+absent: [rmdavis]
+excused_absences: [ # Any legitamite excuses for absent team members
+  ]
+task_progress: [ # All group members must be included here even if they haven't made any progress since the last meeting
+  {ubit: lethiraj, progress: python cgi, more data},
+  {ubit: skim43, progress: wrote python script that changes color of state based on new polling data},
+  {ubit: sjmarcy, progress: Making state for each year},
+  {ubit: bamichae, progress: python cgi, more data},
+  ]
+issues: [ 
+  {ALL: good progress, finalizing changes},
+  ]
+Notes:  | Integrate more UI's and integrate back end

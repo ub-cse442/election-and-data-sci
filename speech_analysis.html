@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<script src="./speech_analysis_files/jquery.min.js.download"></script>
+<script src="./speech_analysis_files/data.js.download"></script>
+
+<title>Speech Analysis</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
+<style>
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.top {
+  height: 25px;
+}
+
+.bottom {
+  height: 100px;
+}
+
+.background {
+  overflow: auto; 
+  background-color: #F8F8F8;
+  background-size: 110vw; 
+  background-attachment: scroll;
+  height: 100vh; 
+}
+
+.gap {
+  height: 20px;
+} 
+
+.active a {
+    background-color: #123C62 !important;
+}
+
+* {
+  border-radius: 0 !important;
+}
+
+.dropdown-menu {
+  box-shadow: none;
+  
+}
+
+.dropdown-menu>li>a {
+    color: white;
+}
+
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    background-color: #123C62;
+    color: white;
+}
+
+.navbar-nav > li > .dropdown-menu { 
+    background-color: #222222; 
+}
+
+</style>
+</head>
+<body><div class="background">
+ <!-- <div class="gap"></div> -->
+  <nav class="navbar navbar-inverse" role="navigation">
+    <div class="container-fluid white-container text-center">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        
+        <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+            <li><a href="data_2000.html">2000 Data</a>
+            <li><a href="data_2004.html">2004 Data</a>
+            <li><a href="data_2008.html">2008 Data</a>
+            <li><a href="data_2012.html">2012 Data</a>
+            <li><a href="data_2016.html">2016 Data</a>
+             
+            </ul>
+        </li>
+       
+        
+        <li><a href="Twitter_analysis.html">Twitter Analysis</a></li>
+        <li class="active"><a href="speech_analysis.html">Speech</a></li>
+       
+    </div>
+  </nav>
+
+    <div class="gap"></div>
+    <div class="gap"></div>
+    <div class="gap"></div>
+
+
+
+  <div class="container-fluid white-container text-center">
+
+  </div>
+
+  <div class="gap"></div>
+    <div class="container-fluid white-container text-center">
+        <font color="black"><h2>Speech analysis of the past Presidents (Washington to Obama)</h2></font>
+        <br><br>
+        <font color="black"><h4>The average number of words used in sentence + others for each President</h4></font>
+
+        <img src="./speech_analysis_files/words_count.png" alt="words_count" style="width:600px;height:500px;">
+        <br><br>
+
+        <font color="blue"><h4>Looks like sentences get shorter as time passes!</h4></font>
+
+      
+
+      <h1></h1>
+  </div>
+
+  <div class="gap"></div>
+    <div class="container-fluid white-container text-center">
+        <br><br>
+        <br><br>
+        <font color="black"><h4>Frequently used words for each President</h4></font>
+
+        <h3></h3>
+        <h3></h3>
+
+        <img src="./speech_analysis_files/frequent_words.png" alt="frequent_words" style="width:630px;height:500px;">
+
+        <br><br>
+        <font color="blue"><h4>The word "America" and "World" are the most popular words for the recent Presidents!</h4></font>
+
+
+      
+
+      <h1></h1>
+  </div>
+
+
+  <div class="bottom"></div></div>
+
+</body>
+</html>

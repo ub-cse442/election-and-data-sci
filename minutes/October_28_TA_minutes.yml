@@ -1,0 +1,16 @@
+date: October 28, 2016
+meeting_type: TA
+attendance: [bamichae, lethiraj, skim43, sjmarcy]
+absent: [rmdavis]
+excused_absences: [ # Any legitamite excuses for absent team members
+  ]
+task_progress: [ # All group members must be included here even if they haven't made any progress since the last meeting
+  {ubit: <lethiraj>, progress:  data visualizations},
+  {ubit: <skim43>, progress: wrote python script that integrates poll data with steve's map hovering},
+  {ubit: <sjmarcy>, progress: Working on UI development, hovering with state name and electoral votes, changed states by rep or dem},
+  {ubit: <bamichae>, progress: wrote python script to analyze states that mention candidates and how they felt about them},
+  ]
+issues: [ 
+  {ALL: good progress, finalizing changes},
+  ]
+Notes:  | Integrate more UI's and integrate back end
