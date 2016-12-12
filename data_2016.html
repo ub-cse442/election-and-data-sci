@@ -72,7 +72,7 @@ body {
 
 .dropdown-menu {
   box-shadow: none;
-  
+
 }
 
 .dropdown-menu>li>a {
@@ -85,8 +85,8 @@ body {
     color: white;
 }
 
-.navbar-nav > li > .dropdown-menu { 
-    background-color: #222222; 
+.navbar-nav > li > .dropdown-menu {
+    background-color: #222222;
 }
 
 .active a {
@@ -114,10 +114,10 @@ body {
       <ul class="nav navbar-nav">
         <li><a href="index.html">Home</a></li>
         <li class="dropdown">
-        
+
 
             <a class="dropdown-toggle" data-toggle="dropdown" href="#">Data<span class="caret"></span></a>
-        
+
             <ul class="dropdown-menu">
 
             <li><a href="data_2000.html">2000 Data</a>
@@ -125,17 +125,18 @@ body {
             <li><a href="data_2008.html">2008 Data</a>
             <li><a href="data_2012.html">2012 Data</a>
             <li><a href="data_2016.html">2016 Data</a>
-            
 
-            
+
+
             </li>
             </ul>
 
         </li>
 
-        <li><a href="Twitter_analysis.html">Twitter Analysis</a></li>
+        <li><a href="twitter_analysis.html">Twitter Analysis</a></li>
         <li><a href="speech_analysis.html">Speech</a></li>
-  
+	<li><a href="Live_Stream.html">Live Stream</a></li>
+
       </ul>
     </div>
   </nav>
@@ -147,7 +148,7 @@ body {
 
 
   <div class="container-fluid white-container text-center">
-    
+
   </div>
 
  <div class="gap" ></div>
@@ -158,8 +159,8 @@ body {
   <div class="gap" ></div>
   <div class="gap" ></div>
     <div class="container-fluid white-container text-center">
-      
-       
+
+
         <div id="state-data"></div>
         <div class="map">
           <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -228,7 +229,7 @@ body {
 </div>
 
 <script>
-   
+
 $("path").hover(function(e) {
   $('#state-data').css('display','block');
   $('#state-data').html($(this).data('info'));
@@ -243,18 +244,18 @@ $(document).mousemove(function(e) {
 
 $("path").click(function() {
     var state = $(this).data('name');
-    
-    window.location = "states/" + state + ".html";  
+
+    window.location = "states/" + state + ".html";
 });
 
 </script>
 
-<h1></h1> 
+<h1></h1>
 
 </div>
 
 <div class="bottom">
-  
+
 </div>
 </div>
 
